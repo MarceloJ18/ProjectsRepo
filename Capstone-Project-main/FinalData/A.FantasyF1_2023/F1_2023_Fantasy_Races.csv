@@ -1,0 +1,24 @@
+Code,RaceNum,RaceName,Country,Circuit,IsSprint
+BAH,1,Bahrain Grand Prix,Bahrain,Bahrain International Circuit,False
+SAU,2,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah Street Circuit,False
+AUS,3,Australian Grand Prix,Australia,Albert Park Circuit,False
+AZE,4,Azerbaijan Grand Prix,Azerbaijan,Baku City Circuit,True
+USA,5,Miami Grand Prix,USA,Miami International Autodrome,False
+ITA,6,Emilia Romagna Grand Prix,Italy,Autodromo Enzo e Dino Ferrari,False
+MON,7,Monaco Grand Prix,Monaco,Circuit de Monaco,False
+SPA,8,Spanish Grand Prix,Spain,Circuit de Barcelona-Catalunya,False
+CAN,9,Canadian Grand Prix,Canada,Circuit Gilles Villeneuve,False
+AUT,10,Austrian Grand Prix,Austria,Red Bull Ring,True
+GBR,11,British Grand Prix,United Kingdom,Silverstone Circuit,False
+HUN,12,Hungarian Grand Prix,Hungary,Hungaroring,False
+BEL,13,Belgian Grand Prix,Belgium,Circuit de Spa-Francorchamps,True
+NET,14,Dutch Grand Prix,Netherlands,Circuit Zandvoort,False
+ITA,15,Italian Grand Prix,Italy,Autodromo Nazionale di Monza,False
+SIN,16,Singapore Grand Prix,Singapore,Marina Bay Street Circuit,False
+JAP,17,Japanese Grand Prix,Japan,Suzuka International Racing Course,False
+QAT,18,Qatar Grand Prix,Qatar,Losail International Circuit,True
+USA,19,United States Grand Prix,USA,Circuit of the Americas,True
+MEX,20,Mexican Grand Prix,Mexico,Autódromo Hermanos Rodríguez,False
+BRA,21,Brazilian Grand Prix,Brazil,Autódromo José Carlos Pace,True
+USA,22,Las Vegas Grand Prix,USA,Las Vegas Strip Circuit,False
+ABU,23,Abu Dhabi Grand Prix,United Arab Emirates,Yas Marina Circuit,False

@@ -1,0 +1,681 @@
+,grid,positionOrder,points,laps,milliseconds_x,fastestLap,rank,fastestLapTime,fastestLapSpeed_x,year,round,driverRef,nationality_x,constructorRef,nationality_y,status,circuitRef,location,country,lat,lng,alt,month,age
+0,7.0,6.0,8.0,58.0,5320285.0,54.0,9.0,82451.0,230.449,2022.0,3.0,ricciardo,Australian,mclaren,British,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,32
+1,4.0,5.0,10.0,58.0,5319851.0,55.0,8.0,82248.0,231.018,2022.0,3.0,norris,British,mclaren,British,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,22
+2,13.0,6.0,8.0,58.0,9162072.0,46.0,9.0,81173.0,234.077,2023.0,3.0,norris,British,mclaren,British,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,23
+3,16.0,8.0,4.0,58.0,9163753.0,53.0,12.0,81335.00000000001,233.611,2023.0,3.0,piastri,Australian,mclaren,British,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,22
+4,5.0,4.0,12.0,58.0,5295091.0,51.0,7.0,81886.0,232.039,2022.0,3.0,hamilton,British,mercedes,German,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,37
+5,3.0,2.0,18.0,58.0,9158550.0,49.0,5.0,80613.0,235.703,2023.0,3.0,hamilton,British,mercedes,German,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,38
+6,6.0,3.0,15.0,58.0,5292141.0,53.0,4.0,81495.0,233.152,2022.0,3.0,russell,British,mercedes,German,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,24
+7,20.0,10.0,1.0,58.0,5345930.0,54.0,12.0,82589.0,230.064,2022.0,3.0,albon,Thai,williams,British,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,26
+8,5.0,12.0,0.0,58.0,9164965.0,53.0,3.0,80467.0,236.131,2023.0,3.0,sainz,Spanish,ferrari,Italian,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,28
+9,1.0,1.0,26.0,58.0,5266548.0,58.0,1.0,80260.0,236.74,2022.0,3.0,leclerc,Monegasque,ferrari,Italian,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,24
+10,8.0,7.0,6.0,58.0,5328231.0,58.0,10.0,82469.0,230.399,2022.0,3.0,ocon,French,alpine,French,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,25
+11,4.0,3.0,15.0,58.0,9159140.0,53.0,4.0,80476.0,236.105,2023.0,3.0,alonso,Spanish,aston_martin,British,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,41
+12,19.0,12.0,0.0,58.0,5355146.0,48.0,17.0,83592.0,227.304,2022.0,3.0,stroll,Canadian,aston_martin,British,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,23
+13,6.0,4.0,12.0,58.0,9161453.0,50.0,6.0,80934.0,234.769,2023.0,3.0,stroll,Canadian,aston_martin,British,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,24
+14,12.0,8.0,4.0,58.0,5334987.0,54.0,5.0,81651.0,232.707,2022.0,3.0,bottas,Finnish,alfa,Swiss,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,32
+15,0.0,11.0,0.0,58.0,9164884.0,46.0,17.0,82233.0,231.06,2023.0,3.0,bottas,Finnish,alfa,Swiss,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,33
+16,14.0,11.0,0.0,58.0,5348243.0,55.0,11.0,82541.0,230.198,2022.0,3.0,zhou,Chinese,alfa,Swiss,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,22
+17,17.0,9.0,2.0,58.0,9164084.0,48.0,16.0,81819.0,232.229,2023.0,3.0,zhou,Chinese,alfa,Swiss,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,23
+18,3.0,2.0,18.0,58.0,5287072.0,58.0,3.0,81094.0,234.305,2022.0,3.0,perez,Mexican,red_bull,Austrian,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,32
+19,0.0,5.0,11.0,58.0,9161691.0,53.0,1.0,80235.0,236.814,2023.0,3.0,perez,Mexican,red_bull,Austrian,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,33
+20,1.0,1.0,25.0,58.0,9158371.0,49.0,2.0,80342.0,236.498,2023.0,3.0,max_verstappen,Dutch,red_bull,Austrian,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,25
+21,10.0,7.0,6.0,58.0,9163310.0,46.0,8.0,81124.0,234.219,2023.0,3.0,hulkenberg,German,haas,American,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,35
+22,11.0,9.0,2.0,58.0,5342769.0,52.0,13.0,82731.0,229.669,2022.0,3.0,gasly,French,alphatauri,Italian,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,26
+23,12.0,10.0,1.0,58.0,9164423.0,52.0,15.0,81789.0,232.314,2023.0,3.0,tsunoda,Japanese,alphatauri,Italian,Finished,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,22
+24,18.0,16.0,0.0,57.0,5439028.0,49.0,18.0,83882.0,226.518,2022.0,3.0,latifi,Canadian,williams,British,+1 Lap,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,26
+25,10.0,17.0,0.0,57.0,5435992.0,57.0,2.0,80846.0,235.024,2022.0,3.0,alonso,Spanish,alpine,French,+1 Lap,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,40
+26,16.0,14.0,0.0,57.0,5438217.0,44.0,15.0,83071.0,228.729,2022.0,3.0,kevin_magnussen,Danish,haas,American,+1 Lap,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,29
+27,15.0,13.0,0.0,57.0,5438152.0,55.0,14.0,83006.0,228.908,2022.0,3.0,mick_schumacher,German,haas,American,+1 Lap,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,23
+28,13.0,15.0,0.0,57.0,5438488.0,56.0,16.0,83342.0,227.985,2022.0,3.0,tsunoda,Japanese,alphatauri,Italian,+1 Lap,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,21
+29,18.0,16.0,0.0,56.0,9979525.0,50.0,13.0,81456.0,233.264,2023.0,3.0,sargeant,American,williams,British,Collision,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,22
+30,7.0,20.0,0.0,0.0,10536525.0,1.0,0.0,137156.0,225.654,2023.0,3.0,leclerc,Monegasque,ferrari,Italian,Collision,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,25
+31,11.0,14.0,0.0,56.0,9976995.0,44.0,11.0,81203.0,233.991,2023.0,3.0,ocon,French,alpine,French,Collision,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,26
+32,9.0,13.0,0.0,56.0,9974915.0,47.0,7.0,80995.0,234.592,2023.0,3.0,gasly,French,alpine,French,Collision,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,27
+33,15.0,15.0,0.0,56.0,9976795.0,50.0,10.0,81183.0,234.049,2023.0,3.0,de_vries,Dutch,alphatauri,Italian,Collision,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,28
+34,9.0,20.0,0.0,1.0,6345426.0,1.0,0.0,99028.0,219.814,2022.0,3.0,sainz,Spanish,ferrari,Italian,Spun off,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,27
+35,8.0,19.0,0.0,6.0,9998455.0,6.0,19.0,83349.0,227.966,2023.0,3.0,albon,Thai,williams,British,Accident,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,27
+36,17.0,19.0,0.0,22.0,6207036.0,17.0,19.0,85189.0,223.042,2022.0,3.0,vettel,German,aston_martin,British,Accident,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,34
+37,14.0,17.0,0.0,52.0,9981815.0,52.0,14.0,81685.0,232.61,2023.0,3.0,kevin_magnussen,Danish,haas,American,Accident,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,30
+38,2.0,18.0,0.0,17.0,9991765.0,16.0,18.0,82680.0,229.811,2023.0,3.0,russell,British,mercedes,German,Engine,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,25
+39,2.0,18.0,0.0,38.0,6171916.0,37.0,6.0,81676.99999999999,232.633,2022.0,3.0,max_verstappen,Dutch,red_bull,Austrian,Fuel leak,albert_park,Melbourne,Australia,-37.8497,144.968,10.0,4,24
+40,11.0,8.0,4.0,66.0,5923710.0,53.0,5.0,85619.0,196.568,2022.0,6.0,norris,British,mclaren,British,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,22
+41,6.0,5.0,10.0,66.0,5895009.0,51.0,2.0,84253.0,199.755,2022.0,6.0,hamilton,British,mercedes,German,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,37
+42,4.0,2.0,18.0,66.0,5302030.0,62.0,3.0,76676.0,218.649,2023.0,7.0,hamilton,British,mercedes,German,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,38
+43,4.0,3.0,15.0,66.0,5873402.0,53.0,3.0,84636.0,198.851,2022.0,6.0,russell,British,mercedes,German,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,24
+44,12.0,3.0,15.0,66.0,5310329.0,48.0,5.0,77875.0,215.283,2023.0,7.0,russell,British,mercedes,German,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,25
+45,3.0,4.0,12.0,66.0,5885683.0,49.0,7.0,85985.0,195.731,2022.0,6.0,sainz,Spanish,ferrari,Italian,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,27
+46,2.0,5.0,10.0,66.0,5323638.0,60.0,11.0,78402.99999999999,213.833,2023.0,7.0,sainz,Spanish,ferrari,Italian,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,28
+47,19.0,11.0,0.0,66.0,5352359.0,52.0,9.0,78357.0,213.959,2023.0,7.0,leclerc,Monegasque,ferrari,Italian,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,25
+48,12.0,7.0,6.0,66.0,5915872.0,54.0,6.0,85935.0,195.845,2022.0,6.0,ocon,French,alpine,French,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,25
+49,6.0,8.0,4.0,66.0,5347182.0,54.0,18.0,78946.0,212.362,2023.0,7.0,ocon,French,alpine,French,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,26
+50,10.0,10.0,1.0,66.0,5351470.0,41.0,10.0,78375.0,213.91,2023.0,7.0,gasly,French,alpine,French,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,27
+51,8.0,7.0,6.0,66.0,5342067.0,49.0,7.0,78083.0,214.709,2023.0,7.0,alonso,Spanish,aston_martin,British,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,41
+52,5.0,6.0,8.0,66.0,5341260.0,56.0,14.0,78722.00000000001,212.967,2023.0,7.0,stroll,Canadian,aston_martin,British,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,24
+53,7.0,6.0,8.0,66.0,5900451.0,36.0,8.0,86395.0,194.802,2022.0,6.0,bottas,Finnish,alfa,Swiss,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,32
+54,13.0,9.0,2.0,66.0,5349818.0,38.0,15.0,78753.0,212.883,2023.0,7.0,zhou,Chinese,alfa,Swiss,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,24
+55,5.0,2.0,19.0,66.0,5853547.0,55.0,1.0,84108.0,200.099,2022.0,6.0,perez,Mexican,red_bull,Austrian,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,32
+56,11.0,4.0,12.0,66.0,5313752.0,52.0,2.0,76666.0,218.678,2023.0,7.0,perez,Mexican,red_bull,Austrian,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,33
+57,2.0,1.0,25.0,66.0,5840475.0,46.0,4.0,85456.0,196.943,2022.0,6.0,max_verstappen,Dutch,red_bull,Austrian,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,24
+58,1.0,1.0,26.0,66.0,5277940.0,61.0,1.0,76330.0,219.641,2023.0,7.0,max_verstappen,Dutch,red_bull,Austrian,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,25
+59,15.0,12.0,0.0,66.0,5353356.0,59.0,17.0,78904.0,212.475,2023.0,7.0,tsunoda,Japanese,alphatauri,Italian,Finished,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,23
+60,9.0,12.0,0.0,65.0,6010995.0,54.0,15.0,87285.0,192.816,2022.0,6.0,ricciardo,Australian,mclaren,British,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,32
+61,3.0,17.0,0.0,65.0,5430538.0,55.0,4.0,77182.0,217.216,2023.0,7.0,norris,British,mclaren,British,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,23
+62,9.0,13.0,0.0,65.0,5432035.0,41.0,13.0,78679.0,213.083,2023.0,7.0,piastri,Australian,mclaren,British,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,22
+63,18.0,16.0,0.0,65.0,5432489.0,59.0,19.0,79133.0,211.861,2023.0,7.0,albon,Thai,williams,British,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,27
+64,20.0,20.0,0.0,65.0,5432603.0,41.0,20.0,79247.0,211.556,2023.0,7.0,sargeant,American,williams,British,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,22
+65,20.0,9.0,2.0,65.0,6010309.0,56.0,9.0,86599.0,194.344,2022.0,6.0,alonso,Spanish,alpine,French,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,40
+66,16.0,11.0,0.0,65.0,6011339.0,59.0,18.0,87629.0,192.059,2022.0,6.0,vettel,German,aston_martin,British,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,34
+67,17.0,15.0,0.0,65.0,6010586.0,54.0,11.0,86876.0,193.724,2022.0,6.0,stroll,Canadian,aston_martin,British,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,23
+68,16.0,19.0,0.0,65.0,5431598.0,50.0,8.0,78242.0,214.273,2023.0,7.0,bottas,Finnish,alfa,Swiss,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,33
+69,7.0,15.0,0.0,65.0,5432132.0,53.0,16.0,78776.0,212.821,2023.0,7.0,hulkenberg,German,haas,American,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,35
+70,17.0,18.0,0.0,65.0,5431425.0,44.0,6.0,78069.0,214.748,2023.0,7.0,kevin_magnussen,Danish,haas,American,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,30
+71,10.0,14.0,0.0,65.0,6011157.0,32.0,16.0,87447.0,192.459,2022.0,6.0,mick_schumacher,German,haas,American,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,23
+72,14.0,13.0,0.0,65.0,6010697.0,51.0,12.0,86987.0,193.477,2022.0,6.0,gasly,French,alphatauri,Italian,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,26
+73,13.0,10.0,1.0,65.0,6010538.0,59.0,10.0,86828.0,193.831,2022.0,6.0,tsunoda,Japanese,alphatauri,Italian,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,22
+74,14.0,14.0,0.0,65.0,5431950.0,41.0,12.0,78594.0,213.313,2023.0,7.0,de_vries,Dutch,alphatauri,Italian,+1 Lap,catalunya,Montmeló,Spain,41.57,2.26111,109.0,6,28
+75,18.0,18.0,0.0,64.0,6100272.0,56.0,19.0,88281.0,190.641,2022.0,6.0,albon,Thai,williams,British,+2 Laps,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,26
+76,19.0,16.0,0.0,64.0,6098202.0,52.0,14.0,87246.0,192.902,2022.0,6.0,latifi,Canadian,williams,British,+2 Laps,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,26
+77,8.0,17.0,0.0,64.0,6098784.0,3.0,17.0,87537.0,192.261,2022.0,6.0,kevin_magnussen,Danish,haas,American,+2 Laps,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,29
+78,1.0,20.0,0.0,27.0,6794010.0,25.0,13.0,87030.0,193.381,2022.0,6.0,leclerc,Monegasque,ferrari,Italian,Turbo,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,24
+79,15.0,19.0,0.0,28.0,6807860.0,12.0,20.0,88414.99999999999,190.352,2022.0,6.0,zhou,Chinese,alfa,Swiss,Power loss,catalunya,Montmeló,Spain,41.57,2.26111,109.0,5,22
+80,14.0,13.0,0.0,64.0,7047900.0,59.0,11.0,77532.0,154.945,2022.0,7.0,ricciardo,Australian,mclaren,British,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,32
+81,5.0,6.0,9.0,64.0,7002496.0,55.0,1.0,74693.0,160.834,2022.0,7.0,norris,British,mclaren,British,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,22
+82,8.0,8.0,4.0,64.0,7040653.0,51.0,9.0,77203.0,155.605,2022.0,7.0,hamilton,British,mercedes,German,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,37
+83,5.0,4.0,13.0,78.0,6571042.0,33.0,1.0,75650.0,158.799,2023.0,6.0,hamilton,British,mercedes,German,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,38
+84,6.0,5.0,10.0,64.0,7002233.0,42.0,8.0,76830.0,156.36,2022.0,7.0,russell,British,mercedes,German,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,24
+85,8.0,5.0,10.0,78.0,6588264.0,48.0,10.0,76798.0,156.425,2023.0,6.0,russell,British,mercedes,German,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,25
+86,2.0,2.0,18.0,64.0,6991419.0,47.0,7.0,76420.99999999999,157.197,2022.0,7.0,sainz,Spanish,ferrari,Italian,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,27
+87,4.0,8.0,4.0,78.0,6595371.0,43.0,5.0,76449.0,157.14,2023.0,6.0,sainz,Spanish,ferrari,Italian,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,28
+88,1.0,4.0,12.0,64.0,6993187.0,46.0,6.0,76249.0,157.552,2022.0,7.0,leclerc,Monegasque,ferrari,Italian,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,24
+89,6.0,6.0,8.0,78.0,6593870.0,46.0,2.0,75773.0,158.541,2023.0,6.0,leclerc,Monegasque,ferrari,Italian,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,25
+90,7.0,7.0,6.0,64.0,7036623.0,50.0,3.0,75882.0,158.314,2022.0,7.0,alonso,Spanish,alpine,French,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,40
+91,10.0,12.0,0.0,64.0,7045909.0,50.0,13.0,77571.0,154.867,2022.0,7.0,ocon,French,alpine,French,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,25
+92,3.0,3.0,15.0,78.0,6568970.0,41.0,6.0,76527.99999999999,156.977,2023.0,6.0,ocon,French,alpine,French,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,26
+93,7.0,7.0,6.0,78.0,6594342.0,49.0,3.0,75831.0,158.42,2023.0,6.0,gasly,French,alpine,French,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,27
+94,2.0,2.0,18.0,78.0,6559901.0,43.0,9.0,76674.0,156.678,2023.0,6.0,alonso,Spanish,aston_martin,British,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,41
+95,9.0,10.0,1.0,64.0,7043801.0,54.0,12.0,77558.0,154.893,2022.0,7.0,vettel,German,aston_martin,British,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,34
+96,18.0,14.0,0.0,64.0,7051067.0,56.0,15.0,77672.0,154.665,2022.0,7.0,stroll,Canadian,aston_martin,British,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,23
+97,12.0,9.0,2.0,64.0,7042790.0,57.0,14.0,77600.0,154.809,2022.0,7.0,bottas,Finnish,alfa,Swiss,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,32
+98,3.0,1.0,25.0,64.0,6990265.0,46.0,4.0,76027.99999999999,158.01,2022.0,7.0,perez,Mexican,red_bull,Austrian,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,32
+99,4.0,3.0,15.0,64.0,6991756.0,47.0,5.0,76051.99999999999,157.96,2022.0,7.0,max_verstappen,Dutch,red_bull,Austrian,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,24
+100,1.0,1.0,25.0,78.0,6531980.0,23.0,7.0,76604.0,156.822,2023.0,6.0,max_verstappen,Dutch,red_bull,Austrian,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,25
+101,17.0,11.0,0.0,64.0,7044554.0,61.0,10.0,77344.0,155.321,2022.0,7.0,gasly,French,alphatauri,Italian,Finished,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,26
+102,10.0,9.0,2.0,77.0,6673215.0,46.0,19.0,77844.0,154.324,2023.0,6.0,norris,British,mclaren,British,+1 Lap,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,23
+103,11.0,10.0,1.0,77.0,6672884.0,47.0,14.0,77513.0,154.983,2023.0,6.0,piastri,Australian,mclaren,British,+1 Lap,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,22
+104,13.0,14.0,0.0,77.0,6672043.0,24.0,8.0,76672.0,156.683,2023.0,6.0,albon,Thai,williams,British,+1 Lap,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,27
+105,19.0,15.0,0.0,63.0,7129646.0,43.0,18.0,78579.00000000001,152.88,2022.0,7.0,latifi,Canadian,williams,British,+1 Lap,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,26
+106,15.0,11.0,0.0,77.0,6673195.0,19.0,18.0,77824.0,154.363,2023.0,6.0,bottas,Finnish,alfa,Swiss,+1 Lap,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,33
+107,20.0,16.0,0.0,63.0,7129267.0,52.0,17.0,78200.0,153.621,2022.0,7.0,zhou,Chinese,alfa,Swiss,+1 Lap,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,23
+108,19.0,13.0,0.0,77.0,6672297.0,5.0,11.0,76926.0,156.165,2023.0,6.0,zhou,Chinese,alfa,Swiss,+1 Lap,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,24
+109,11.0,17.0,0.0,63.0,7126401.0,61.0,2.0,75334.0,159.465,2022.0,7.0,tsunoda,Japanese,alphatauri,Italian,+1 Lap,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,22
+110,12.0,12.0,0.0,77.0,6672932.0,43.0,15.0,77561.0,154.887,2023.0,6.0,de_vries,Dutch,alphatauri,Italian,+1 Lap,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,28
+111,14.0,20.0,0.0,53.0,7373061.0,18.0,17.0,77769.0,154.472,2023.0,6.0,stroll,Canadian,aston_martin,British,Accident,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,24
+112,15.0,19.0,0.0,24.0,7898847.0,24.0,19.0,84777.99999999999,141.701,2022.0,7.0,mick_schumacher,German,haas,American,Accident,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,23
+113,16.0,18.0,0.0,76.0,6749975.0,32.0,13.0,77301.99999999999,155.406,2023.0,6.0,sargeant,American,williams,British,+2 Laps,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,22
+114,20.0,16.0,0.0,76.0,6747909.0,5.0,4.0,76269.0,157.51,2023.0,6.0,perez,Mexican,red_bull,Austrian,+2 Laps,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,33
+115,18.0,17.0,0.0,76.0,6749353.0,6.0,12.0,76991.0,156.033,2023.0,6.0,hulkenberg,German,haas,American,+2 Laps,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,35
+116,9.0,15.0,0.0,76.0,6750731.0,36.0,16.0,77680.0,154.649,2023.0,6.0,tsunoda,Japanese,alphatauri,Italian,+2 Laps,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,23
+117,17.0,19.0,0.0,70.0,7378881.0,41.0,20.0,78351.0,153.325,2023.0,6.0,kevin_magnussen,Danish,haas,American,Collision damage,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,30
+118,16.0,18.0,0.0,48.0,7831297.0,40.0,16.0,78023.0,153.969,2022.0,7.0,albon,Thai,williams,British,Mechanical,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,26
+119,13.0,20.0,0.0,19.0,7988607.0,18.0,20.0,93753.99999999999,128.135,2022.0,7.0,kevin_magnussen,Danish,haas,American,Water pressure,monaco,Monte-Carlo,Monaco,43.7347,7.42056,7.0,5,29
+120,14.0,13.0,0.0,52.0,8303128.0,34.0,11.0,92644.0,228.914,2022.0,10.0,ricciardo,Australian,mclaren,British,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,33
+121,6.0,6.0,8.0,52.0,8282254.0,47.0,6.0,91645.0,231.41,2022.0,10.0,norris,British,mclaren,British,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,22
+122,2.0,2.0,18.0,52.0,5120736.0,43.0,2.0,90543.0,234.226,2023.0,10.0,norris,British,mclaren,British,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,23
+123,3.0,4.0,12.0,52.0,5124714.0,41.0,4.0,90850.0,233.435,2023.0,10.0,piastri,Australian,mclaren,British,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,22
+124,5.0,3.0,16.0,52.0,8276536.0,52.0,1.0,90510.0,234.312,2022.0,10.0,hamilton,British,mercedes,German,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,37
+125,7.0,3.0,15.0,52.0,5123721.0,43.0,3.0,90545.0,234.221,2023.0,10.0,hamilton,British,mercedes,German,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,38
+126,6.0,5.0,10.0,52.0,5128144.0,41.0,6.0,91124.0,232.733,2023.0,10.0,russell,British,mercedes,German,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,25
+127,8.0,8.0,4.0,52.0,5134816.0,41.0,8.0,91273.0,232.353,2023.0,10.0,albon,Thai,williams,British,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,27
+128,10.0,12.0,0.0,52.0,8302822.0,48.0,13.0,93286.0,227.339,2022.0,10.0,latifi,Canadian,williams,British,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,27
+129,14.0,11.0,0.0,52.0,5140570.0,42.0,13.0,91699.0,231.274,2023.0,10.0,sargeant,American,williams,British,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,22
+130,1.0,1.0,25.0,52.0,8270311.0,44.0,2.0,90813.0,233.53,2022.0,10.0,sainz,Spanish,ferrari,Italian,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,27
+131,5.0,10.0,1.0,52.0,5136386.0,51.0,10.0,91366.0,232.116,2023.0,10.0,sainz,Spanish,ferrari,Italian,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,28
+132,3.0,4.0,12.0,52.0,8278857.0,52.0,4.0,91282.0,232.33,2022.0,10.0,leclerc,Monegasque,ferrari,Italian,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,24
+133,4.0,9.0,2.0,52.0,5135627.0,48.0,7.0,91255.0,232.399,2023.0,10.0,leclerc,Monegasque,ferrari,Italian,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,25
+134,7.0,5.0,10.0,52.0,8279882.0,47.0,5.0,91609.00000000001,231.501,2022.0,10.0,alonso,Spanish,alpine,French,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,40
+135,9.0,7.0,6.0,52.0,5134131.0,48.0,9.0,91338.0,232.188,2023.0,10.0,alonso,Spanish,aston_martin,British,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,41
+136,18.0,9.0,2.0,52.0,8292667.0,52.0,10.0,92471.0,229.343,2022.0,10.0,vettel,German,aston_martin,British,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,35
+137,20.0,11.0,0.0,52.0,8296458.0,52.0,9.0,92378.99999999999,229.571,2022.0,10.0,stroll,Canadian,aston_martin,British,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,23
+138,12.0,14.0,0.0,52.0,5144421.0,42.0,11.0,91508.0,231.756,2023.0,10.0,stroll,Canadian,aston_martin,British,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,24
+139,20.0,12.0,0.0,52.0,5142768.0,52.0,16.0,91852.0,230.888,2023.0,10.0,bottas,Finnish,alfa,Swiss,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,33
+140,17.0,15.0,0.0,52.0,5146758.0,48.0,14.0,91769.0,231.097,2023.0,10.0,zhou,Chinese,alfa,Swiss,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,24
+141,4.0,2.0,18.0,52.0,8274090.0,47.0,3.0,90937.0,233.212,2022.0,10.0,perez,Mexican,red_bull,Austrian,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,32
+142,15.0,6.0,8.0,52.0,5129820.0,51.0,5.0,90914.0,233.271,2023.0,10.0,perez,Mexican,red_bull,Austrian,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,33
+143,2.0,7.0,6.0,52.0,8289088.0,44.0,8.0,92354.0,229.633,2022.0,10.0,max_verstappen,Dutch,red_bull,Austrian,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,24
+144,1.0,1.0,26.0,52.0,5116938.0,42.0,1.0,90275.0,234.922,2023.0,10.0,max_verstappen,Dutch,red_bull,Austrian,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,25
+145,11.0,13.0,0.0,52.0,5143601.0,52.0,15.0,91776.0,231.08,2023.0,10.0,hulkenberg,German,haas,American,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,35
+146,17.0,10.0,1.0,52.0,8294901.0,52.0,12.0,92661.0,228.872,2022.0,10.0,kevin_magnussen,Danish,haas,American,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,29
+147,19.0,8.0,4.0,52.0,8289306.0,48.0,7.0,92109.00000000001,230.244,2022.0,10.0,mick_schumacher,German,haas,American,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,23
+148,13.0,14.0,0.0,52.0,8311221.0,51.0,15.0,93832.0,226.016,2022.0,10.0,tsunoda,Japanese,alphatauri,Italian,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,22
+149,16.0,16.0,0.0,52.0,5148163.0,48.0,17.0,92084.0,230.307,2023.0,10.0,tsunoda,Japanese,alphatauri,Italian,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,23
+150,18.0,17.0,0.0,52.0,5150066.0,48.0,18.0,92353.00000000001,229.636,2023.0,10.0,de_vries,Dutch,alphatauri,Italian,Finished,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,28
+151,8.0,18.0,0.0,0.0,11132061.0,1.0,0.0,282084.0,219.78,2022.0,10.0,russell,British,mercedes,German,Collision,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,24
+152,16.0,20.0,0.0,0.0,11132061.0,1.0,0.0,282084.0,219.78,2022.0,10.0,albon,Thai,williams,British,Collision,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,26
+153,9.0,19.0,0.0,0.0,11132061.0,1.0,0.0,282084.0,219.78,2022.0,10.0,zhou,Chinese,alfa,Swiss,Collision,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,23
+154,12.0,17.0,0.0,20.0,9262251.0,19.0,17.0,95103.00000000001,222.996,2022.0,10.0,bottas,Finnish,alfa,Swiss,Gearbox,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,32
+155,19.0,19.0,0.0,31.0,6083626.0,29.0,19.0,93356.0,227.169,2023.0,10.0,kevin_magnussen,Danish,haas,American,Engine,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,30
+156,10.0,18.0,0.0,46.0,6065456.0,42.0,12.0,91539.0,231.678,2023.0,10.0,gasly,French,alpine,French,Collision damage,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,27
+157,11.0,16.0,0.0,26.0,9257361.0,18.0,16.0,94614.0,224.148,2022.0,10.0,gasly,French,alphatauri,Italian,Collision damage,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,26
+158,13.0,20.0,0.0,9.0,6089476.0,4.0,20.0,93941.0,225.754,2023.0,10.0,ocon,French,alpine,French,Oil leak,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,26
+159,15.0,15.0,0.0,37.0,9246591.0,37.0,14.0,93537.0,226.729,2022.0,10.0,ocon,French,alpine,French,Fuel pump,silverstone,Silverstone,UK,52.0786,-1.01694,153.0,7,25
+160,4.0,7.0,6.0,70.0,6054212.0,47.0,11.0,83043.0,189.92,2022.0,13.0,norris,British,mclaren,British,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,22
+161,3.0,2.0,18.0,70.0,5922365.0,50.0,4.0,82178.0,191.919,2023.0,11.0,norris,British,mclaren,British,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,23
+162,4.0,5.0,10.0,70.0,5951206.0,45.0,8.0,82736.0,190.625,2023.0,11.0,piastri,Australian,mclaren,British,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,22
+163,7.0,2.0,19.0,70.0,5983746.0,57.0,1.0,81386.0,193.787,2022.0,13.0,hamilton,British,mercedes,German,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,37
+164,1.0,4.0,12.0,70.0,5927768.0,54.0,2.0,81601.0,193.277,2023.0,11.0,hamilton,British,mercedes,German,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,38
+165,1.0,3.0,15.0,70.0,5988249.0,57.0,9.0,82765.99999999999,190.556,2022.0,13.0,russell,British,mercedes,German,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,24
+166,18.0,6.0,8.0,70.0,5954459.0,48.0,3.0,82158.0,191.966,2023.0,11.0,russell,British,mercedes,German,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,25
+167,2.0,4.0,12.0,70.0,5990491.0,51.0,4.0,82000.0,192.336,2022.0,13.0,sainz,Spanish,ferrari,Italian,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,27
+168,11.0,8.0,4.0,70.0,5959707.0,54.0,7.0,82584.0,190.976,2023.0,11.0,sainz,Spanish,ferrari,Italian,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,28
+169,3.0,6.0,8.0,70.0,5991959.0,57.0,2.0,81622.0,193.227,2022.0,13.0,leclerc,Monegasque,ferrari,Italian,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,24
+170,6.0,7.0,6.0,70.0,5958951.0,50.0,6.0,82469.0,191.242,2023.0,11.0,leclerc,Monegasque,ferrari,Italian,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,25
+171,8.0,9.0,2.0,70.0,5964343.0,51.0,9.0,82745.0,190.604,2023.0,11.0,alonso,Spanish,aston_martin,British,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,42
+172,11.0,5.0,10.0,70.0,5991600.0,44.0,3.0,81940.0,192.477,2022.0,13.0,perez,Mexican,red_bull,Austrian,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,32
+173,9.0,3.0,15.0,70.0,5926237.0,53.0,5.0,82295.0,191.647,2023.0,11.0,perez,Mexican,red_bull,Austrian,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,33
+174,10.0,1.0,25.0,70.0,5975912.0,45.0,6.0,82126.0,192.041,2022.0,13.0,max_verstappen,Dutch,red_bull,Austrian,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,24
+175,2.0,1.0,26.0,70.0,5888634.0,53.0,1.0,80504.0,195.91,2023.0,11.0,max_verstappen,Dutch,red_bull,Austrian,Finished,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,25
+176,9.0,15.0,0.0,69.0,6137866.0,63.0,17.0,83654.0,188.533,2022.0,13.0,ricciardo,Australian,mclaren,British,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,33
+177,17.0,17.0,0.0,69.0,6137259.0,43.0,12.0,83047.0,189.911,2022.0,13.0,albon,Thai,williams,British,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,26
+178,16.0,11.0,0.0,69.0,6048394.0,54.0,18.0,84051.0,187.643,2023.0,11.0,albon,Thai,williams,British,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,27
+179,19.0,18.0,0.0,69.0,6136690.0,60.0,8.0,82478.00000000001,191.221,2022.0,13.0,latifi,Canadian,williams,British,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,27
+180,6.0,8.0,4.0,69.0,6138191.0,47.0,18.0,83979.0,187.804,2022.0,13.0,alonso,Spanish,alpine,French,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,41
+181,5.0,9.0,2.0,69.0,6138361.0,60.0,20.0,84149.0,187.424,2022.0,13.0,ocon,French,alpine,French,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,25
+182,18.0,10.0,1.0,69.0,6137036.0,51.0,10.0,82824.0,190.423,2022.0,13.0,vettel,German,aston_martin,British,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,35
+183,14.0,11.0,0.0,69.0,6136649.0,51.0,7.0,82437.0,191.317,2022.0,13.0,stroll,Canadian,aston_martin,British,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,23
+184,14.0,10.0,1.0,69.0,6047768.0,54.0,11.0,83425.0,189.051,2023.0,11.0,stroll,Canadian,aston_martin,British,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,24
+185,7.0,12.0,0.0,69.0,6047994.0,42.0,14.0,83651.0,188.54,2023.0,11.0,bottas,Finnish,alfa,Swiss,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,33
+186,12.0,13.0,0.0,69.0,6136241.0,58.0,5.0,82029.0,192.268,2022.0,13.0,zhou,Chinese,alfa,Swiss,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,23
+187,5.0,16.0,0.0,69.0,6048086.0,12.0,15.0,83743.0,188.333,2023.0,11.0,zhou,Chinese,alfa,Swiss,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,24
+188,10.0,14.0,0.0,69.0,6047916.0,42.0,13.0,83573.00000000001,188.716,2023.0,11.0,hulkenberg,German,haas,American,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,35
+189,13.0,16.0,0.0,69.0,6137723.0,37.0,15.0,83511.0,188.856,2022.0,13.0,kevin_magnussen,Danish,haas,American,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,29
+190,19.0,17.0,0.0,69.0,6048207.0,54.0,16.0,83864.0,188.061,2023.0,11.0,kevin_magnussen,Danish,haas,American,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,30
+191,15.0,14.0,0.0,69.0,6137363.0,50.0,13.0,83151.0,189.674,2022.0,13.0,mick_schumacher,German,haas,American,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,23
+192,13.0,13.0,0.0,69.0,6048277.0,67.0,17.0,83934.0,187.904,2023.0,11.0,ricciardo,Australian,alphatauri,Italian,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,34
+193,0.0,12.0,0.0,69.0,6137411.0,58.0,14.0,83199.0,189.564,2022.0,13.0,gasly,French,alphatauri,Italian,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,26
+194,17.0,15.0,0.0,69.0,6047612.0,68.0,10.0,83269.0,189.405,2023.0,11.0,tsunoda,Japanese,alphatauri,Italian,+1 Lap,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,23
+195,20.0,18.0,0.0,67.0,6799303.0,36.0,12.0,83496.0,188.89,2023.0,11.0,sargeant,American,williams,British,Retired,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,22
+196,16.0,19.0,0.0,68.0,6221288.0,58.0,16.0,83538.0,188.795,2022.0,13.0,tsunoda,Japanese,alphatauri,Italian,+2 Laps,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,22
+197,8.0,20.0,0.0,65.0,6894232.0,60.0,19.0,84002.0,187.752,2022.0,13.0,bottas,Finnish,alfa,Swiss,Power Unit,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,32
+198,12.0,19.0,0.0,2.0,7033993.0,2.0,0.0,106965.0,185.464,2023.0,11.0,ocon,French,alpine,French,Collision damage,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,26
+199,15.0,20.0,0.0,1.0,7214153.0,1.0,0.0,124981.0,185.464,2023.0,11.0,gasly,French,alpine,French,Collision damage,hungaroring,Budapest,Hungary,47.5789,19.2486,264.0,7,27
+200,7.0,15.0,0.0,44.0,5260057.0,34.0,17.0,113080.0,222.978,2022.0,14.0,ricciardo,Australian,mclaren,British,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,33
+201,17.0,12.0,0.0,44.0,5257633.0,31.0,5.0,111678.0,225.777,2022.0,14.0,norris,British,mclaren,British,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,22
+202,7.0,7.0,6.0,44.0,5024169.0,26.0,18.0,111682.0,225.769,2023.0,12.0,norris,British,mclaren,British,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,23
+203,3.0,4.0,13.0,44.0,5000121.0,44.0,1.0,107305.0,234.978,2023.0,12.0,hamilton,British,mercedes,German,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,38
+204,5.0,4.0,12.0,44.0,5182034.0,31.0,4.0,110793.0,227.581,2022.0,14.0,russell,British,mercedes,German,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,24
+205,8.0,6.0,8.0,44.0,5013551.0,25.0,11.0,110603.00000000001,227.972,2023.0,12.0,russell,British,mercedes,German,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,25
+206,6.0,10.0,1.0,44.0,5254794.0,28.0,16.0,113055.0,223.027,2022.0,14.0,albon,Thai,williams,British,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,26
+207,15.0,14.0,0.0,44.0,5046634.0,35.0,3.0,109841.00000000001,229.553,2023.0,12.0,albon,Thai,williams,British,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,27
+208,18.0,17.0,0.0,44.0,5054926.0,37.0,9.0,110485.99999999999,228.213,2023.0,12.0,sargeant,American,williams,British,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,22
+209,1.0,3.0,15.0,44.0,5179780.0,32.0,7.0,111977.0,225.174,2022.0,14.0,sainz,Spanish,ferrari,Italian,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,28
+210,15.0,6.0,8.0,44.0,5227830.0,44.0,2.0,109984.00000000001,229.255,2022.0,14.0,leclerc,Monegasque,ferrari,Italian,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,24
+211,1.0,3.0,15.0,44.0,4982709.0,30.0,7.0,110436.0,228.316,2023.0,12.0,leclerc,Monegasque,ferrari,Italian,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,25
+212,3.0,5.0,10.0,44.0,5226150.0,35.0,13.0,112868.0,223.397,2022.0,14.0,alonso,Spanish,alpine,French,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,41
+213,16.0,7.0,6.0,44.0,5228534.0,36.0,6.0,111717.0,225.698,2022.0,14.0,ocon,French,alpine,French,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,25
+214,14.0,8.0,4.0,44.0,5025169.0,27.0,8.0,110439.0,228.31,2023.0,12.0,ocon,French,alpine,French,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,26
+215,12.0,11.0,0.0,44.0,5033534.0,25.0,12.0,110911.0,227.339,2023.0,12.0,gasly,French,alpine,French,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,27
+216,9.0,5.0,10.0,44.0,5006634.0,42.0,13.0,110938.0,227.283,2023.0,12.0,alonso,Spanish,aston_martin,British,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,42
+217,10.0,8.0,4.0,44.0,5231001.0,40.0,11.0,112515.0,224.098,2022.0,14.0,vettel,German,aston_martin,British,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,35
+218,9.0,11.0,0.0,44.0,5255972.0,29.0,14.0,112880.0,223.373,2022.0,14.0,stroll,Canadian,aston_martin,British,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,23
+219,10.0,9.0,2.0,44.0,5029790.0,26.0,16.0,111297.0,226.55,2023.0,12.0,stroll,Canadian,aston_martin,British,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,24
+220,13.0,12.0,0.0,44.0,5035641.0,26.0,10.0,110515.0,228.153,2023.0,12.0,bottas,Finnish,alfa,Swiss,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,33
+221,18.0,14.0,0.0,44.0,5259146.0,30.0,9.0,112317.0,224.493,2022.0,14.0,zhou,Chinese,alfa,Swiss,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,23
+222,17.0,13.0,0.0,44.0,5045891.0,27.0,5.0,110188.0,228.83,2023.0,12.0,zhou,Chinese,alfa,Swiss,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,24
+223,2.0,2.0,18.0,44.0,5170735.0,29.0,3.0,110764.00000000001,227.64,2022.0,14.0,perez,Mexican,red_bull,Austrian,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,32
+224,2.0,2.0,18.0,44.0,4972755.0,31.0,6.0,110308.0,228.581,2023.0,12.0,perez,Mexican,red_bull,Austrian,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,33
+225,14.0,1.0,26.0,44.0,5152894.0,32.0,1.0,109354.0,230.575,2022.0,14.0,max_verstappen,Dutch,red_bull,Austrian,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,24
+226,6.0,1.0,25.0,44.0,4950450.0,32.0,2.0,108922.0,231.49,2023.0,12.0,max_verstappen,Dutch,red_bull,Austrian,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,25
+227,0.0,18.0,0.0,44.0,5060900.0,26.0,4.0,109907.0,229.415,2023.0,12.0,hulkenberg,German,haas,American,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,35
+228,16.0,15.0,0.0,44.0,5052204.0,27.0,14.0,110993.0,227.171,2023.0,12.0,kevin_magnussen,Danish,haas,American,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,30
+229,19.0,16.0,0.0,44.0,5053521.0,25.0,15.0,110994.0,227.169,2023.0,12.0,ricciardo,Australian,alphatauri,Italian,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,34
+230,0.0,9.0,2.0,44.0,5245075.0,24.0,15.0,113002.00000000001,223.132,2022.0,14.0,gasly,French,alphatauri,Italian,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,26
+231,0.0,13.0,0.0,44.0,5258111.0,32.0,10.0,112436.0,224.255,2022.0,14.0,tsunoda,Japanese,alphatauri,Italian,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,8,22
+232,11.0,10.0,1.0,44.0,5030671.0,26.0,17.0,111394.0,226.353,2023.0,12.0,tsunoda,Japanese,alphatauri,Italian,Finished,spa,Spa,Belgium,50.4372,5.97139,401.0,7,23
+233,11.0,18.0,0.0,43.0,5372313.0,38.0,8.0,112256.0,224.615,2022.0,14.0,latifi,Canadian,williams,British,+1 Lap,spa,Spa,Belgium,50.4372,5.97139,401.0,8,27
+234,12.0,16.0,0.0,43.0,5373389.0,29.0,18.0,113332.0,222.482,2022.0,14.0,kevin_magnussen,Danish,haas,American,+1 Lap,spa,Spa,Belgium,50.4372,5.97139,401.0,8,29
+235,19.0,17.0,0.0,43.0,5372703.0,35.0,12.0,112646.0,223.837,2022.0,14.0,mick_schumacher,German,haas,American,+1 Lap,spa,Spa,Belgium,50.4372,5.97139,401.0,8,23
+236,13.0,19.0,0.0,1.0,6516567.0,1.0,0.0,125651.0,220.181,2022.0,14.0,bottas,Finnish,alfa,Swiss,Accident,spa,Spa,Belgium,50.4372,5.97139,401.0,8,33
+237,5.0,20.0,0.0,0.0,6302650.0,1.0,0.0,124175.0,220.451,2023.0,12.0,piastri,Australian,mclaren,British,Collision damage,spa,Spa,Belgium,50.4372,5.97139,401.0,7,22
+238,4.0,20.0,0.0,0.0,6530637.0,1.0,0.0,127058.0,220.181,2022.0,14.0,hamilton,British,mercedes,German,Collision damage,spa,Spa,Belgium,50.4372,5.97139,401.0,8,37
+239,4.0,19.0,0.0,23.0,6192280.0,9.0,19.0,113138.0,222.864,2023.0,12.0,sainz,Spanish,ferrari,Italian,Collision damage,spa,Spa,Belgium,50.4372,5.97139,401.0,7,28
+240,3.0,7.0,6.0,53.0,4833718.0,43.0,5.0,84718.0,246.167,2022.0,16.0,norris,British,mclaren,British,Finished,monza,Monza,Italy,45.6156,9.28111,162.0,9,22
+241,19.0,5.0,10.0,53.0,4832891.0,43.0,3.0,84434.0,246.995,2022.0,16.0,hamilton,British,mercedes,German,Finished,monza,Monza,Italy,45.6156,9.28111,162.0,9,37
+242,2.0,3.0,15.0,53.0,4830916.0,40.0,7.0,85288.0,244.522,2022.0,16.0,russell,British,mercedes,German,Finished,monza,Monza,Italy,45.6156,9.28111,162.0,9,24
+243,8.0,9.0,2.0,53.0,4834633.0,41.0,13.0,86624.0,240.75,2022.0,16.0,de_vries,Dutch,williams,British,Finished,monza,Monza,Italy,45.6156,9.28111,162.0,9,27
+244,18.0,4.0,12.0,53.0,4832572.0,41.0,4.0,84446.0,246.96,2022.0,16.0,sainz,Spanish,ferrari,Italian,Finished,monza,Monza,Italy,45.6156,9.28111,162.0,9,28
+245,1.0,2.0,18.0,53.0,4829957.0,38.0,2.0,84336.0,247.282,2022.0,16.0,leclerc,Monegasque,ferrari,Italian,Finished,monza,Monza,Italy,45.6156,9.28111,162.0,9,24
+246,14.0,11.0,0.0,53.0,4835834.0,37.0,11.0,86593.0,240.837,2022.0,16.0,ocon,French,alpine,French,Finished,monza,Monza,Italy,45.6156,9.28111,162.0,9,26
+247,9.0,10.0,1.0,53.0,4835421.0,41.0,10.0,86361.0,241.484,2022.0,16.0,zhou,Chinese,alfa,Swiss,Finished,monza,Monza,Italy,45.6156,9.28111,162.0,9,23
+248,13.0,6.0,9.0,53.0,4833602.0,46.0,1.0,84030.0,248.182,2022.0,16.0,perez,Mexican,red_bull,Austrian,Finished,monza,Monza,Italy,45.6156,9.28111,162.0,9,32
+249,7.0,1.0,25.0,53.0,4827511.0,38.0,6.0,84745.0,246.088,2022.0,16.0,max_verstappen,Dutch,red_bull,Austrian,Finished,monza,Monza,Italy,45.6156,9.28111,162.0,9,24
+250,17.0,12.0,0.0,53.0,4836060.0,43.0,8.0,85298.0,244.493,2022.0,16.0,mick_schumacher,German,haas,American,Finished,monza,Monza,Italy,45.6156,9.28111,162.0,9,23
+251,5.0,8.0,4.0,53.0,4833907.0,30.0,14.0,86718.0,240.489,2022.0,16.0,gasly,French,alphatauri,Italian,Finished,monza,Monza,Italy,45.6156,9.28111,162.0,9,26
+252,10.0,15.0,0.0,52.0,4922858.0,17.0,15.0,86798.0,240.268,2022.0,16.0,latifi,Canadian,williams,British,+1 Lap,monza,Monza,Italy,45.6156,9.28111,162.0,9,27
+253,15.0,13.0,0.0,52.0,4921766.0,45.0,9.0,85706.0,243.329,2022.0,16.0,bottas,Finnish,alfa,Swiss,+1 Lap,monza,Monza,Italy,45.6156,9.28111,162.0,9,33
+254,16.0,16.0,0.0,52.0,4922858.0,37.0,16.0,86798.0,240.268,2022.0,16.0,kevin_magnussen,Danish,haas,American,+1 Lap,monza,Monza,Italy,45.6156,9.28111,162.0,9,29
+255,20.0,14.0,0.0,52.0,4922917.0,43.0,17.0,86857.0,240.105,2022.0,16.0,tsunoda,Japanese,alphatauri,Italian,+1 Lap,monza,Monza,Italy,45.6156,9.28111,162.0,9,22
+256,11.0,20.0,0.0,10.0,5711070.0,4.0,20.0,87501.0,238.337,2022.0,16.0,vettel,German,aston_martin,British,Engine,monza,Monza,Italy,45.6156,9.28111,162.0,9,35
+257,12.0,18.0,0.0,39.0,5710730.0,34.0,19.0,87467.0,238.43,2022.0,16.0,stroll,Canadian,aston_martin,British,Engine,monza,Monza,Italy,45.6156,9.28111,162.0,9,23
+258,4.0,17.0,0.0,45.0,5702090.0,39.0,12.0,86603.00000000001,240.809,2022.0,16.0,ricciardo,Australian,mclaren,British,Oil leak,monza,Monza,Italy,45.6156,9.28111,162.0,9,33
+259,6.0,19.0,0.0,31.0,5708090.0,7.0,18.0,87203.0,239.152,2022.0,16.0,alonso,Spanish,alpine,French,Water pressure,monza,Monza,Italy,45.6156,9.28111,162.0,9,41
+260,16.0,5.0,10.0,59.0,7393520.0,57.0,12.0,111006.0,164.196,2022.0,17.0,ricciardo,Australian,mclaren,British,Finished,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,33
+261,6.0,4.0,12.0,59.0,7361371.0,56.0,6.0,109212.0,166.893,2022.0,17.0,norris,British,mclaren,British,Finished,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,22
+262,3.0,9.0,2.0,59.0,7401753.0,58.0,10.0,110622.0,164.766,2022.0,17.0,hamilton,British,mercedes,German,Finished,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,37
+263,4.0,3.0,15.0,59.0,7350543.0,59.0,3.0,108414.0,168.122,2022.0,17.0,sainz,Spanish,ferrari,Italian,Finished,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,28
+264,1.0,2.0,18.0,59.0,7342833.0,54.0,4.0,108753.0,167.598,2022.0,17.0,leclerc,Monegasque,ferrari,Italian,Finished,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,24
+265,13.0,8.0,4.0,59.0,7400270.0,58.0,11.0,110669.0,164.696,2022.0,17.0,vettel,German,aston_martin,British,Finished,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,35
+266,11.0,6.0,8.0,59.0,7396568.0,58.0,7.0,110283.0,165.272,2022.0,17.0,stroll,Canadian,aston_martin,British,Finished,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,23
+267,15.0,11.0,0.0,59.0,7429082.0,52.0,13.0,111864.0,162.937,2022.0,17.0,bottas,Finnish,alfa,Swiss,Finished,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,33
+268,2.0,1.0,25.0,59.0,7340238.0,57.0,2.0,108164.99999999999,168.509,2022.0,17.0,perez,Mexican,red_bull,Austrian,Finished,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,32
+269,8.0,7.0,6.0,59.0,7399063.0,52.0,5.0,109142.0,167.0,2022.0,17.0,max_verstappen,Dutch,red_bull,Austrian,Finished,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,25
+270,9.0,12.0,0.0,59.0,7432848.0,59.0,14.0,112067.0,162.641,2022.0,17.0,kevin_magnussen,Danish,haas,American,Finished,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,30
+271,7.0,10.0,1.0,59.0,7409814.0,56.0,9.0,110569.0,164.845,2022.0,17.0,gasly,French,alphatauri,Italian,Finished,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,26
+272,12.0,13.0,0.0,58.0,7543138.0,58.0,8.0,110289.99999999999,165.262,2022.0,17.0,mick_schumacher,German,haas,American,+1 Lap,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,23
+273,14.0,20.0,0.0,6.0,8688408.0,5.0,19.0,125556.0,145.168,2022.0,17.0,zhou,Chinese,alfa,Swiss,Collision,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,23
+274,10.0,15.0,0.0,34.0,8620008.0,32.0,15.0,118716.00000000001,153.532,2022.0,17.0,tsunoda,Japanese,alphatauri,Italian,Accident,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,22
+275,5.0,18.0,0.0,20.0,8637478.0,19.0,16.0,120463.0,151.306,2022.0,17.0,alonso,Spanish,alpine,French,Engine,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,41
+276,17.0,16.0,0.0,26.0,8643898.0,24.0,17.0,121105.0,150.504,2022.0,17.0,ocon,French,alpine,French,Engine,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,26
+277,0.0,14.0,0.0,57.0,7645764.0,54.0,1.0,106458.0,171.211,2022.0,17.0,russell,British,mercedes,German,+2 Laps,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,24
+278,18.0,17.0,0.0,25.0,8654058.0,24.0,18.0,122121.0,149.251,2022.0,17.0,albon,Thai,williams,British,Collision damage,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,26
+279,19.0,19.0,0.0,7.0,8688698.0,5.0,20.0,125585.0,145.135,2022.0,17.0,latifi,Canadian,williams,British,Collision damage,marina_bay,Marina Bay,Singapore,1.2914,103.864,18.0,10,27
+280,2.0,2.0,18.0,71.0,5915573.0,63.0,2.0,73942.0,209.791,2022.0,21.0,hamilton,British,mercedes,German,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,37
+281,1.0,1.0,26.0,71.0,5914044.0,61.0,1.0,73785.0,210.237,2022.0,21.0,russell,British,mercedes,German,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,24
+282,19.0,15.0,0.0,71.0,5950060.0,49.0,16.0,75613.0,205.155,2022.0,21.0,albon,Thai,williams,British,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,26
+283,18.0,16.0,0.0,71.0,5951082.0,59.0,11.0,75327.0,205.934,2022.0,21.0,latifi,Canadian,williams,British,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,27
+284,7.0,3.0,15.0,71.0,5918095.0,65.0,3.0,73953.0,209.76,2022.0,21.0,sainz,Spanish,ferrari,Italian,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,28
+285,5.0,4.0,12.0,71.0,5922485.0,63.0,6.0,74253.0,208.912,2022.0,21.0,leclerc,Monegasque,ferrari,Italian,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,25
+286,17.0,5.0,10.0,71.0,5923605.0,62.0,4.0,74164.0,209.163,2022.0,21.0,alonso,Spanish,alpine,French,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,41
+287,16.0,8.0,4.0,71.0,5932734.0,65.0,9.0,75093.0,206.575,2022.0,21.0,ocon,French,alpine,French,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,26
+288,9.0,11.0,0.0,71.0,5940227.0,64.0,15.0,75549.0,205.328,2022.0,21.0,vettel,German,aston_martin,British,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,35
+289,15.0,10.0,1.0,71.0,5937596.0,50.0,8.0,74831.0,207.299,2022.0,21.0,stroll,Canadian,aston_martin,British,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,24
+290,14.0,9.0,2.0,71.0,5936596.0,62.0,14.0,75511.0,205.432,2022.0,21.0,bottas,Finnish,alfa,Swiss,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,33
+291,13.0,12.0,0.0,71.0,5943369.0,64.0,17.0,75801.99999999999,204.643,2022.0,21.0,zhou,Chinese,alfa,Swiss,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,23
+292,4.0,7.0,6.0,71.0,5928124.0,62.0,7.0,74283.0,208.828,2022.0,21.0,perez,Mexican,red_bull,Austrian,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,32
+293,3.0,6.0,8.0,71.0,5924100.0,64.0,5.0,74195.0,209.076,2022.0,21.0,max_verstappen,Dutch,red_bull,Austrian,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,25
+294,12.0,13.0,0.0,71.0,5943943.0,63.0,10.0,75251.0,206.142,2022.0,21.0,mick_schumacher,German,haas,American,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,23
+295,10.0,14.0,0.0,71.0,5945911.0,64.0,12.0,75327.0,205.934,2022.0,21.0,gasly,French,alphatauri,Italian,Finished,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,26
+296,0.0,17.0,0.0,70.0,6026590.0,63.0,13.0,75508.0,205.44,2022.0,21.0,tsunoda,Japanese,alphatauri,Italian,+1 Lap,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,22
+297,11.0,20.0,0.0,0.0,7100292.0,1.0,0.0,114921.0,202.503,2022.0,21.0,ricciardo,Australian,mclaren,British,Collision,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,33
+298,8.0,19.0,0.0,0.0,7100292.0,1.0,0.0,114921.0,202.503,2022.0,21.0,kevin_magnussen,Danish,haas,American,Collision,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,30
+299,6.0,18.0,0.0,50.0,6709632.0,48.0,18.0,75855.0,204.5,2022.0,21.0,norris,British,mclaren,British,Gearbox,interlagos,São Paulo,Brazil,-23.7036,-46.6997,785.0,11,23
+300,18.0,14.0,0.0,57.0,5908559.0,50.0,16.0,97261.0,200.318,2022.0,1.0,ricciardo,Australian,mclaren,British,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,32
+301,13.0,15.0,0.0,57.0,5909919.0,51.0,12.0,96988.0,200.882,2022.0,1.0,norris,British,mclaren,British,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,22
+302,5.0,3.0,15.0,57.0,5863259.0,53.0,5.0,96228.00000000001,202.469,2022.0,1.0,hamilton,British,mercedes,German,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,37
+303,7.0,5.0,10.0,57.0,5687713.0,36.0,10.0,96545.99999999999,201.802,2023.0,1.0,hamilton,British,mercedes,German,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,38
+304,9.0,4.0,12.0,57.0,5864795.0,56.0,6.0,96301.99999999999,202.313,2022.0,1.0,russell,British,mercedes,German,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,24
+305,6.0,7.0,6.0,57.0,5692609.0,33.0,17.0,97221.0,200.401,2023.0,1.0,russell,British,mercedes,German,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,25
+306,14.0,13.0,0.0,57.0,5907516.0,50.0,18.0,97354.99999999999,200.125,2022.0,1.0,albon,Thai,williams,British,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,26
+307,15.0,10.0,1.0,57.0,5726510.0,43.0,15.0,97144.0,200.559,2023.0,1.0,albon,Thai,williams,British,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,26
+308,20.0,16.0,0.0,57.0,5915379.0,51.0,20.0,98251.0,198.3,2022.0,1.0,latifi,Canadian,williams,British,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,26
+309,3.0,2.0,18.0,57.0,5859182.0,52.0,3.0,95740.00000000001,203.501,2022.0,1.0,sainz,Spanish,ferrari,Italian,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,27
+310,4.0,4.0,12.0,57.0,5684788.0,37.0,14.0,97130.0,200.588,2023.0,1.0,sainz,Spanish,ferrari,Italian,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,28
+311,1.0,1.0,26.0,57.0,5853584.0,51.0,1.0,94570.0,206.018,2022.0,1.0,leclerc,Monegasque,ferrari,Italian,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,24
+312,8.0,9.0,2.0,57.0,5875974.0,44.0,10.0,96733.0,201.412,2022.0,1.0,alonso,Spanish,alpine,French,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,40
+313,11.0,7.0,6.0,57.0,5873007.0,53.0,14.0,97110.0,200.63,2022.0,1.0,ocon,French,alpine,French,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,25
+314,20.0,9.0,2.0,57.0,5710489.0,42.0,2.0,95068.0,204.939,2023.0,1.0,gasly,French,alpine,French,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,27
+315,5.0,3.0,15.0,57.0,5675373.0,36.0,5.0,96156.0,202.62,2023.0,1.0,alonso,Spanish,aston_martin,British,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,41
+316,17.0,17.0,0.0,57.0,5917413.0,49.0,19.0,98201.0,198.401,2022.0,1.0,hulkenberg,German,aston_martin,British,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,34
+317,19.0,12.0,0.0,57.0,5899457.0,49.0,15.0,97146.0,200.555,2022.0,1.0,stroll,Canadian,aston_martin,British,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,23
+318,8.0,6.0,8.0,57.0,5691238.0,32.0,9.0,96545.99999999999,201.802,2023.0,1.0,stroll,Canadian,aston_martin,British,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,24
+319,6.0,6.0,8.0,57.0,5869703.0,53.0,7.0,96598.99999999999,201.691,2022.0,1.0,bottas,Finnish,alfa,Swiss,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,32
+320,12.0,8.0,4.0,57.0,5709383.0,31.0,18.0,97378.99999999999,200.075,2023.0,1.0,bottas,Finnish,alfa,Swiss,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,33
+321,15.0,10.0,1.0,57.0,5876648.0,39.0,9.0,96685.0,201.512,2022.0,1.0,zhou,Chinese,alfa,Swiss,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,22
+322,2.0,2.0,18.0,57.0,5648723.0,37.0,7.0,96344.0,202.225,2023.0,1.0,perez,Mexican,red_bull,Austrian,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,33
+323,1.0,1.0,25.0,57.0,5636736.0,44.0,6.0,96235.99999999999,202.452,2023.0,1.0,max_verstappen,Dutch,red_bull,Austrian,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,25
+324,7.0,5.0,10.0,57.0,5868338.0,53.0,8.0,96622.99999999999,201.641,2022.0,1.0,kevin_magnussen,Danish,haas,American,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,29
+325,12.0,11.0,0.0,57.0,5886158.0,37.0,11.0,96956.0,200.948,2022.0,1.0,mick_schumacher,German,haas,American,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,23
+326,16.0,8.0,4.0,57.0,5873970.0,53.0,13.0,97104.0,200.642,2022.0,1.0,tsunoda,Japanese,alphatauri,Italian,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,21
+327,14.0,11.0,0.0,57.0,5727606.0,42.0,12.0,96637.0,201.612,2023.0,1.0,tsunoda,Japanese,alphatauri,Italian,Finished,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,22
+328,16.0,12.0,0.0,56.0,5823643.0,42.0,4.0,96037.0,202.871,2023.0,1.0,sargeant,American,williams,British,+1 Lap,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,22
+329,13.0,16.0,0.0,56.0,5821602.0,56.0,1.0,93996.00000000001,207.276,2023.0,1.0,zhou,Chinese,alfa,Swiss,+1 Lap,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,23
+330,10.0,15.0,0.0,56.0,5824222.0,42.0,11.0,96616.0,201.656,2023.0,1.0,hulkenberg,German,haas,American,+1 Lap,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,35
+331,17.0,13.0,0.0,56.0,5824077.0,42.0,8.0,96471.0,201.959,2023.0,1.0,kevin_magnussen,Danish,haas,American,+1 Lap,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,30
+332,19.0,14.0,0.0,56.0,5825315.0,30.0,19.0,97709.0,199.4,2023.0,1.0,de_vries,Dutch,alphatauri,Italian,+1 Lap,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,28
+333,18.0,20.0,0.0,13.0,6734516.0,3.0,20.0,100691.0,193.494,2023.0,1.0,piastri,Australian,mclaren,British,Electrical,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,21
+334,3.0,19.0,0.0,39.0,6699306.0,37.0,16.0,97170.0,200.506,2023.0,1.0,leclerc,Monegasque,ferrari,Italian,Engine,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,25
+335,11.0,17.0,0.0,55.0,5919250.0,51.0,3.0,95822.0,203.327,2023.0,1.0,norris,British,mclaren,British,+2 Laps,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,23
+336,10.0,20.0,0.0,44.0,6890653.0,34.0,17.0,97324.0,200.189,2022.0,1.0,gasly,French,alphatauri,Italian,Power Unit,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,26
+337,4.0,18.0,0.0,56.0,6878303.0,52.0,4.0,96089.0,202.762,2022.0,1.0,perez,Mexican,red_bull,Austrian,Fuel pressure,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,32
+338,2.0,19.0,0.0,54.0,6871813.0,51.0,2.0,95440.0,204.14,2022.0,1.0,max_verstappen,Dutch,red_bull,Austrian,Fuel pressure,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,24
+339,9.0,18.0,0.0,41.0,6695576.0,34.0,13.0,96797.0,201.278,2023.0,1.0,ocon,French,alpine,French,Mechanical,bahrain,Sakhir,Bahrain,26.0325,50.5106,7.0,3,26
+340,9.0,11.0,0.0,70.0,5824804.0,59.0,13.0,77932.0,201.452,2022.0,9.0,ricciardo,Australian,mclaren,British,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,32
+341,14.0,15.0,0.0,70.0,5833902.0,63.0,11.0,77495.0,202.588,2022.0,9.0,norris,British,mclaren,British,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,22
+342,7.0,13.0,0.0,70.0,5706711.0,65.0,8.0,76374.0,205.562,2023.0,8.0,norris,British,mclaren,British,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,23
+343,8.0,11.0,0.0,70.0,5703449.0,59.0,11.0,76598.0,204.96,2023.0,8.0,piastri,Australian,mclaren,British,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,22
+344,4.0,3.0,15.0,70.0,5788763.0,69.0,4.0,76167.0,206.12,2022.0,9.0,hamilton,British,mercedes,German,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,37
+345,3.0,3.0,15.0,70.0,5642946.0,47.0,2.0,75396.0,208.228,2023.0,8.0,hamilton,British,mercedes,German,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,38
+346,8.0,4.0,12.0,70.0,5794070.0,63.0,5.0,76418.0,205.443,2022.0,9.0,russell,British,mercedes,German,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,24
+347,12.0,13.0,0.0,70.0,5826650.0,59.0,14.0,77951.0,201.403,2022.0,9.0,albon,Thai,williams,British,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,26
+348,9.0,7.0,6.0,70.0,5699161.0,68.0,16.0,76917.0,204.11,2023.0,8.0,albon,Thai,williams,British,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,27
+349,18.0,16.0,0.0,70.0,5841735.0,61.0,18.0,78539.99999999999,199.893,2022.0,9.0,latifi,Canadian,williams,British,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,26
+350,3.0,2.0,19.0,70.0,5782750.0,63.0,1.0,75749.0,207.258,2022.0,9.0,sainz,Spanish,ferrari,Italian,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,27
+351,11.0,5.0,10.0,70.0,5659888.0,47.0,6.0,75911.0,206.815,2023.0,8.0,sainz,Spanish,ferrari,Italian,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,28
+352,19.0,5.0,10.0,70.0,5796925.0,62.0,3.0,75901.0,206.843,2022.0,9.0,leclerc,Monegasque,ferrari,Italian,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,24
+353,10.0,4.0,12.0,70.0,5656996.0,47.0,5.0,75907.0,206.826,2023.0,8.0,leclerc,Monegasque,ferrari,Italian,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,25
+354,2.0,9.0,2.0,70.0,5811702.0,63.0,6.0,76578.0,205.014,2022.0,9.0,alonso,Spanish,alpine,French,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,40
+355,7.0,6.0,8.0,70.0,5805647.0,62.0,9.0,77110.0,203.6,2022.0,9.0,ocon,French,alpine,French,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,25
+356,6.0,8.0,4.0,70.0,5700040.0,63.0,15.0,76782.0,204.469,2023.0,8.0,ocon,French,alpine,French,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,26
+357,15.0,12.0,0.0,70.0,5703597.0,67.0,9.0,76425.0,205.424,2023.0,8.0,gasly,French,alpine,French,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,27
+358,2.0,2.0,18.0,70.0,5647918.0,62.0,4.0,75779.0,207.176,2023.0,8.0,alonso,Spanish,aston_martin,British,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,41
+359,16.0,12.0,0.0,70.0,5826002.0,63.0,15.0,77956.0,201.39,2022.0,9.0,vettel,German,aston_martin,British,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,34
+360,17.0,10.0,1.0,70.0,5819979.0,64.0,10.0,77420.99999999999,202.782,2022.0,9.0,stroll,Canadian,aston_martin,British,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,23
+361,16.0,9.0,2.0,70.0,5702750.0,58.0,10.0,76564.0,205.051,2023.0,8.0,stroll,Canadian,aston_martin,British,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,24
+362,11.0,7.0,6.0,70.0,5807004.0,64.0,8.0,77010.0,203.864,2022.0,9.0,bottas,Finnish,alfa,Swiss,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,32
+363,14.0,10.0,1.0,70.0,5702780.0,52.0,12.0,76625.0,204.888,2023.0,8.0,bottas,Finnish,alfa,Swiss,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,33
+364,10.0,8.0,4.0,70.0,5808709.0,60.0,7.0,76926.99999999999,204.084,2022.0,9.0,zhou,Chinese,alfa,Swiss,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,23
+365,12.0,6.0,9.0,70.0,5689376.0,70.0,1.0,74481.0,210.786,2023.0,8.0,perez,Mexican,red_bull,Austrian,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,33
+366,1.0,1.0,25.0,70.0,5781757.0,64.0,2.0,75839.0,207.012,2022.0,9.0,max_verstappen,Dutch,red_bull,Austrian,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,24
+367,1.0,1.0,25.0,70.0,5638348.0,68.0,3.0,75594.0,207.683,2023.0,8.0,max_verstappen,Dutch,red_bull,Austrian,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,25
+368,5.0,17.0,0.0,70.0,5849937.0,11.0,16.0,78045.99999999999,201.158,2022.0,9.0,kevin_magnussen,Danish,haas,American,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,29
+369,15.0,14.0,0.0,70.0,5826940.0,60.0,12.0,77810.0,201.768,2022.0,9.0,gasly,French,alphatauri,Italian,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,26
+370,19.0,14.0,0.0,70.0,5711771.0,68.0,14.0,76666.0,204.779,2023.0,8.0,tsunoda,Japanese,alphatauri,Italian,Finished,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,23
+371,20.0,16.0,0.0,69.0,5788861.0,58.0,17.0,77090.0,203.652,2023.0,8.0,zhou,Chinese,alfa,Swiss,+1 Lap,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,24
+372,5.0,15.0,0.0,69.0,5789003.0,37.0,19.0,77232.0,203.278,2023.0,8.0,hulkenberg,German,haas,American,+1 Lap,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,35
+373,13.0,17.0,0.0,69.0,5787897.0,55.0,7.0,76126.0,206.231,2023.0,8.0,kevin_magnussen,Danish,haas,American,+1 Lap,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,30
+374,17.0,18.0,0.0,69.0,5788427.0,52.0,13.0,76656.0,204.805,2023.0,8.0,de_vries,Dutch,alphatauri,Italian,+1 Lap,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,28
+375,20.0,18.0,0.0,47.0,6633027.0,15.0,17.0,78309.0,200.482,2022.0,9.0,tsunoda,Japanese,alphatauri,Italian,Accident,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,22
+376,4.0,19.0,0.0,53.0,6482741.0,44.0,18.0,77097.00000000001,203.634,2023.0,8.0,russell,British,mercedes,German,Brakes,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,25
+377,13.0,20.0,0.0,7.0,6638377.0,7.0,19.0,78844.0,199.122,2022.0,9.0,perez,Mexican,red_bull,Austrian,Gearbox,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,32
+378,18.0,20.0,0.0,6.0,6496141.0,4.0,20.0,78437.0,200.155,2023.0,8.0,sargeant,American,williams,British,Engine,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,22
+379,6.0,19.0,0.0,18.0,6639607.0,13.0,20.0,78967.0,198.812,2022.0,9.0,mick_schumacher,German,haas,American,Engine,villeneuve,Montreal,Canada,45.5,-73.5228,13.0,6,23
+380,11.0,11.0,0.0,28.0,10976881.0,11.0,15.0,107843.0,193.848,2022.0,18.0,ricciardo,Australian,mclaren,British,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,33
+381,10.0,10.0,1.0,28.0,10974786.0,8.0,17.0,108175.0,193.253,2022.0,18.0,norris,British,mclaren,British,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,22
+382,6.0,5.0,10.0,28.0,10944330.0,11.0,7.0,105530.0,198.097,2022.0,18.0,hamilton,British,mercedes,German,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,37
+383,8.0,8.0,4.0,28.0,10951665.0,21.0,13.0,107003.99999999999,195.368,2022.0,18.0,russell,British,mercedes,German,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,24
+384,20.0,9.0,2.0,28.0,10974147.0,12.0,18.0,108371.00000000001,192.904,2022.0,18.0,latifi,Canadian,williams,British,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,27
+385,2.0,3.0,15.0,28.0,10935767.0,10.0,3.0,104489.0,200.07,2022.0,18.0,leclerc,Monegasque,ferrari,Italian,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,24
+386,7.0,7.0,6.0,28.0,10950373.0,25.0,2.0,104412.0,200.218,2022.0,18.0,alonso,Spanish,alpine,French,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,41
+387,5.0,4.0,12.0,28.0,10943689.0,11.0,11.0,106559.0,196.184,2022.0,18.0,ocon,French,alpine,French,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,26
+388,9.0,6.0,8.0,28.0,10950362.0,13.0,12.0,106964.0,195.441,2022.0,18.0,vettel,German,aston_martin,British,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,35
+389,19.0,12.0,0.0,28.0,10977908.0,21.0,5.0,105205.0,198.709,2022.0,18.0,stroll,Canadian,aston_martin,British,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,23
+390,12.0,15.0,0.0,28.0,10990500.0,11.0,14.0,107820.0,193.889,2022.0,18.0,bottas,Finnish,alfa,Swiss,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,33
+391,14.0,16.0,0.0,28.0,10991047.0,20.0,1.0,104411.0,200.22,2022.0,18.0,zhou,Chinese,alfa,Swiss,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,23
+392,4.0,2.0,18.0,28.0,10931070.0,11.0,9.0,106120.0,196.995,2022.0,18.0,perez,Mexican,red_bull,Austrian,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,32
+393,1.0,1.0,25.0,28.0,10904004.0,10.0,4.0,104911.0,199.266,2022.0,18.0,max_verstappen,Dutch,red_bull,Austrian,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,25
+394,18.0,14.0,0.0,28.0,10990020.0,10.0,16.0,108072.0,193.437,2022.0,18.0,kevin_magnussen,Danish,haas,American,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,30
+395,15.0,17.0,0.0,28.0,10996527.0,22.0,6.0,105387.0,198.366,2022.0,18.0,mick_schumacher,German,haas,American,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,23
+396,17.0,18.0,0.0,28.0,11012095.0,13.0,10.0,106545.0,196.21,2022.0,18.0,gasly,French,alphatauri,Italian,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,26
+397,13.0,13.0,0.0,28.0,10979603.0,22.0,8.0,105893.0,197.418,2022.0,18.0,tsunoda,Japanese,alphatauri,Italian,Finished,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,22
+398,3.0,19.0,0.0,0.0,12711915.0,1.0,0.0,169982.0,190.373,2022.0,18.0,sainz,Spanish,ferrari,Italian,Accident,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,28
+399,16.0,20.0,0.0,0.0,12711915.0,1.0,0.0,169982.0,190.373,2022.0,18.0,albon,Thai,williams,British,Hydraulics,suzuka,Suzuka,Japan,34.8431,136.541,45.0,10,26
+400,13.0,9.0,2.0,58.0,5349182.0,45.0,18.0,90785.0,209.413,2022.0,22.0,ricciardo,Australian,mclaren,British,Finished,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,33
+401,7.0,6.0,9.0,58.0,5322148.0,44.0,1.0,88390.99999999999,215.085,2022.0,22.0,norris,British,mclaren,British,Finished,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,23
+402,6.0,5.0,10.0,58.0,5301802.0,48.0,2.0,88836.0,214.007,2022.0,22.0,russell,British,mercedes,German,Finished,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,24
+403,4.0,4.0,12.0,58.0,5290806.0,50.0,3.0,88879.0,213.904,2022.0,22.0,sainz,Spanish,ferrari,Italian,Finished,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,28
+404,3.0,2.0,18.0,58.0,5274685.0,48.0,10.0,89719.0,211.901,2022.0,22.0,leclerc,Monegasque,ferrari,Italian,Finished,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,25
+405,8.0,7.0,6.0,58.0,5323154.0,45.0,5.0,89333.0,212.817,2022.0,22.0,ocon,French,alpine,French,Finished,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,26
+406,9.0,10.0,1.0,58.0,5349812.0,35.0,15.0,90312.0,210.51,2022.0,22.0,vettel,German,aston_martin,British,Finished,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,35
+407,14.0,8.0,4.0,58.0,5342845.0,42.0,9.0,89620.0,212.135,2022.0,22.0,stroll,Canadian,aston_martin,British,Finished,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,24
+408,2.0,3.0,15.0,58.0,5276007.0,52.0,4.0,88972.00000000001,213.68,2022.0,22.0,perez,Mexican,red_bull,Austrian,Finished,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,32
+409,1.0,1.0,25.0,58.0,5265914.0,54.0,6.0,89392.0,212.676,2022.0,22.0,max_verstappen,Dutch,red_bull,Austrian,Finished,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,25
+410,11.0,11.0,0.0,58.0,5355285.0,40.0,7.0,89489.0,212.446,2022.0,22.0,tsunoda,Japanese,alphatauri,Italian,Finished,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,22
+411,19.0,13.0,0.0,57.0,5445224.0,40.0,13.0,89939.0,211.383,2022.0,22.0,albon,Thai,williams,British,+1 Lap,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,26
+412,18.0,15.0,0.0,57.0,5445637.0,47.0,16.0,90352.0,210.417,2022.0,22.0,bottas,Finnish,alfa,Swiss,+1 Lap,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,33
+413,15.0,12.0,0.0,57.0,5444885.0,53.0,8.0,89600.0,212.183,2022.0,22.0,zhou,Chinese,alfa,Swiss,+1 Lap,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,23
+414,16.0,17.0,0.0,57.0,5446443.0,40.0,20.0,91158.0,208.556,2022.0,22.0,kevin_magnussen,Danish,haas,American,+1 Lap,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,30
+415,12.0,16.0,0.0,57.0,5445118.0,39.0,12.0,89833.0,211.632,2022.0,22.0,mick_schumacher,German,haas,American,+1 Lap,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,23
+416,17.0,14.0,0.0,57.0,5446366.0,16.0,19.0,91081.0,208.732,2022.0,22.0,gasly,French,alphatauri,Italian,+1 Lap,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,26
+417,20.0,19.0,0.0,55.0,6258375.0,45.0,14.0,90309.0,210.517,2022.0,22.0,latifi,Canadian,williams,British,Collision damage,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,27
+418,5.0,18.0,0.0,55.0,6253165.0,42.0,11.0,89788.0,211.738,2022.0,22.0,hamilton,British,mercedes,German,Hydraulics,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,37
+419,10.0,20.0,0.0,27.0,6261075.0,24.0,17.0,90579.00000000001,209.889,2022.0,22.0,alonso,Spanish,alpine,French,Water leak,yas_marina,Abu Dhabi,UAE,24.4672,54.6031,3.0,11,41
+420,15.0,16.0,0.0,56.0,6222174.0,55.0,14.0,102420.0,193.778,2022.0,19.0,ricciardo,Australian,mclaren,British,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,33
+421,6.0,6.0,8.0,56.0,6185472.0,49.0,7.0,101322.0,195.878,2022.0,19.0,norris,British,mclaren,British,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,22
+422,3.0,2.0,18.0,56.0,6136710.0,45.0,5.0,99830.0,198.805,2022.0,19.0,hamilton,British,mercedes,German,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,37
+423,4.0,5.0,11.0,56.0,6176502.0,56.0,1.0,98788.0,200.902,2022.0,19.0,russell,British,mercedes,German,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,24
+424,8.0,13.0,0.0,56.0,6211744.0,55.0,9.0,101674.0,195.2,2022.0,19.0,albon,Thai,williams,British,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,26
+425,17.0,17.0,0.0,56.0,6235275.0,54.0,19.0,103485.0,191.784,2022.0,19.0,latifi,Canadian,williams,British,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,27
+426,12.0,3.0,15.0,56.0,6139188.0,37.0,4.0,99731.0,199.003,2022.0,19.0,leclerc,Monegasque,ferrari,Italian,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,25
+427,14.0,7.0,6.0,56.0,6186765.0,39.0,8.0,101538.0,195.461,2022.0,19.0,alonso,Spanish,alpine,French,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,41
+428,0.0,11.0,0.0,56.0,6204562.0,39.0,13.0,102394.0,193.827,2022.0,19.0,ocon,French,alpine,French,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,26
+429,10.0,8.0,4.0,56.0,6197041.0,35.0,16.0,102545.99999999999,193.54,2022.0,19.0,vettel,German,aston_martin,British,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,35
+430,18.0,12.0,0.0,56.0,6207851.0,46.0,15.0,102471.0,193.682,2022.0,19.0,zhou,Chinese,alfa,Swiss,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,23
+431,9.0,4.0,12.0,56.0,6139980.0,44.0,3.0,99563.0,199.339,2022.0,19.0,perez,Mexican,red_bull,Austrian,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,32
+432,2.0,1.0,25.0,56.0,6131687.0,37.0,2.0,99541.0,199.383,2022.0,19.0,max_verstappen,Dutch,red_bull,Austrian,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,25
+433,13.0,9.0,2.0,56.0,6197521.0,36.0,11.0,102206.0,194.184,2022.0,19.0,kevin_magnussen,Danish,haas,American,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,30
+434,16.0,15.0,0.0,56.0,6216177.0,51.0,10.0,101804.0,194.951,2022.0,19.0,mick_schumacher,German,haas,American,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,23
+435,11.0,14.0,0.0,56.0,6213450.0,55.0,12.0,102320.0,193.967,2022.0,19.0,gasly,French,alphatauri,Italian,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,26
+436,19.0,10.0,1.0,56.0,6202606.0,49.0,6.0,101243.0,196.031,2022.0,19.0,tsunoda,Japanese,alphatauri,Italian,Finished,americas,Austin,USA,30.1328,-97.6411,161.0,10,22
+437,5.0,18.0,0.0,21.0,7266075.0,3.0,17.0,103080.0,192.537,2022.0,19.0,stroll,Canadian,aston_martin,British,Collision,americas,Austin,USA,30.1328,-97.6411,161.0,10,24
+438,7.0,19.0,0.0,16.0,7269185.0,4.0,18.0,103390.99999999999,191.958,2022.0,19.0,bottas,Finnish,alfa,Swiss,Spun off,americas,Austin,USA,30.1328,-97.6411,161.0,10,33
+439,1.0,20.0,0.0,1.0,7385435.0,1.0,0.0,115016.0,189.04399999999998,2022.0,19.0,sainz,Spanish,ferrari,Italian,Collision damage,americas,Austin,USA,30.1328,-97.6411,161.0,10,28
+440,12.0,8.0,4.0,51.0,5738148.0,44.0,13.0,108276.00000000001,199.589,2022.0,8.0,ricciardo,Australian,mclaren,British,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,32
+441,11.0,9.0,2.0,51.0,5738497.0,37.0,9.0,107997.0,200.105,2022.0,8.0,norris,British,mclaren,British,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,22
+442,7.0,9.0,2.0,51.0,5642812.0,49.0,12.0,105738.0,204.38,2023.0,4.0,norris,British,mclaren,British,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,23
+443,10.0,11.0,0.0,51.0,5648937.0,51.0,10.0,105631.0,204.587,2023.0,4.0,piastri,Australian,mclaren,British,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,22
+444,7.0,4.0,12.0,51.0,5717620.0,39.0,3.0,107044.0,201.887,2022.0,8.0,hamilton,British,mercedes,German,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,37
+445,5.0,6.0,8.0,51.0,5608581.0,48.0,7.0,105346.0,205.141,2023.0,4.0,hamilton,British,mercedes,German,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,38
+446,5.0,3.0,15.0,51.0,5691936.0,42.0,4.0,107176.99999999999,201.636,2022.0,8.0,russell,British,mercedes,German,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,24
+447,11.0,8.0,5.0,51.0,5636676.0,51.0,1.0,103370.0,209.062,2023.0,4.0,russell,British,mercedes,German,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,25
+448,12.0,12.0,0.0,51.0,5651059.0,51.0,15.0,105925.0,204.019,2023.0,4.0,albon,Thai,williams,British,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,27
+449,14.0,16.0,0.0,51.0,5663379.0,49.0,17.0,106501.0,202.916,2023.0,4.0,sargeant,American,williams,British,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,22
+450,4.0,5.0,10.0,51.0,5607927.0,48.0,6.0,105175.0,205.474,2023.0,4.0,sainz,Spanish,ferrari,Italian,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,28
+451,1.0,3.0,15.0,51.0,5583653.0,49.0,4.0,104561.0,206.681,2023.0,4.0,leclerc,Monegasque,ferrari,Italian,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,25
+452,10.0,7.0,6.0,51.0,5734537.0,49.0,8.0,107989.0,200.12,2022.0,8.0,alonso,Spanish,alpine,French,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,40
+453,13.0,10.0,1.0,51.0,5754125.0,36.0,14.0,108297.0,199.551,2022.0,8.0,ocon,French,alpine,French,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,25
+454,0.0,15.0,0.0,51.0,5660230.0,49.0,14.0,105908.0,204.052,2023.0,4.0,ocon,French,alpine,French,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,26
+455,17.0,14.0,0.0,51.0,5653768.0,47.0,8.0,105539.99999999999,204.764,2023.0,4.0,gasly,French,alpine,French,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,27
+456,6.0,4.0,12.0,51.0,5584460.0,49.0,3.0,104241.0,207.315,2023.0,4.0,alonso,Spanish,aston_martin,British,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,41
+457,9.0,6.0,8.0,51.0,5730040.0,41.0,12.0,108206.0,199.719,2022.0,8.0,vettel,German,aston_martin,British,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,34
+458,9.0,7.0,6.0,51.0,5614053.0,45.0,9.0,105627.00000000001,204.595,2023.0,4.0,stroll,Canadian,aston_martin,British,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,24
+459,2.0,2.0,19.0,51.0,5666764.0,36.0,1.0,106045.99999999999,203.787,2022.0,8.0,perez,Mexican,red_bull,Austrian,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,32
+460,3.0,1.0,25.0,51.0,5562436.0,50.0,5.0,104589.0,206.625,2023.0,4.0,perez,Mexican,red_bull,Austrian,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,33
+461,3.0,1.0,25.0,51.0,5645941.0,50.0,2.0,106050.0,203.779,2022.0,8.0,max_verstappen,Dutch,red_bull,Austrian,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,24
+462,2.0,2.0,18.0,51.0,5564573.0,51.0,2.0,104232.0,207.333,2023.0,4.0,max_verstappen,Dutch,red_bull,Austrian,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,25
+463,16.0,13.0,0.0,51.0,5652165.0,51.0,13.0,105850.0,204.164,2023.0,4.0,kevin_magnussen,Danish,haas,American,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,30
+464,6.0,5.0,10.0,51.0,5723240.0,39.0,16.0,108519.0,199.143,2022.0,8.0,gasly,French,alphatauri,Italian,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,26
+465,8.0,10.0,1.0,51.0,5646298.0,51.0,11.0,105727.0,204.401,2023.0,4.0,tsunoda,Japanese,alphatauri,Italian,Finished,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,22
+466,17.0,12.0,0.0,50.0,5862091.0,48.0,7.0,107966.00000000001,200.163,2022.0,8.0,albon,Thai,williams,British,+1 Lap,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,26
+467,18.0,15.0,0.0,50.0,5863708.0,37.0,20.0,109583.0,197.209,2022.0,8.0,latifi,Canadian,williams,British,+1 Lap,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,26
+468,15.0,11.0,0.0,50.0,5862304.0,42.0,11.0,108179.0,199.768,2022.0,8.0,bottas,Finnish,alfa,Swiss,+1 Lap,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,32
+469,13.0,18.0,0.0,50.0,5769683.0,36.0,16.0,106304.0,203.292,2023.0,4.0,bottas,Finnish,alfa,Swiss,+1 Lap,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,33
+470,0.0,17.0,0.0,50.0,5770110.0,34.0,18.0,106731.0,202.479,2023.0,4.0,hulkenberg,German,haas,American,+1 Lap,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,35
+471,20.0,14.0,0.0,50.0,5862535.0,40.0,15.0,108410.0,199.343,2022.0,8.0,mick_schumacher,German,haas,American,+1 Lap,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,23
+472,8.0,13.0,0.0,50.0,5861648.0,42.0,5.0,107523.0,200.987,2022.0,8.0,tsunoda,Japanese,alphatauri,Italian,+1 Lap,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,22
+473,18.0,20.0,0.0,9.0,6751189.0,4.0,20.0,108781.0,198.663,2023.0,4.0,de_vries,Dutch,alphatauri,Italian,Accident,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,28
+474,19.0,16.0,0.0,46.0,6834505.0,38.0,10.0,108038.0,200.029,2022.0,8.0,stroll,Canadian,aston_martin,British,Vibrations,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,23
+475,1.0,19.0,0.0,21.0,6829435.0,13.0,6.0,107531.0,200.972,2022.0,8.0,leclerc,Monegasque,ferrari,Italian,Power Unit,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,24
+476,16.0,17.0,0.0,31.0,6842015.0,12.0,18.0,108789.0,198.648,2022.0,8.0,kevin_magnussen,Danish,haas,American,Power Unit,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,29
+477,4.0,20.0,0.0,8.0,6843905.0,3.0,19.0,108978.00000000001,198.304,2022.0,8.0,sainz,Spanish,ferrari,Italian,Hydraulics,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,27
+478,14.0,18.0,0.0,23.0,6841355.0,12.0,17.0,108723.0,198.769,2022.0,8.0,zhou,Chinese,alfa,Swiss,Hydraulics,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,6,23
+479,15.0,19.0,0.0,36.0,6738909.0,31.0,19.0,107553.0,200.931,2023.0,4.0,zhou,Chinese,alfa,Swiss,Overheating,baku,Baku,Azerbaijan,40.3725,49.8533,-7.0,4,23
+480,5.0,3.0,15.0,63.0,5562820.0,61.0,7.0,80902.99999999999,218.439,2022.0,4.0,norris,British,mclaren,British,Finished,imola,Imola,Italy,44.3439,11.7167,37.0,4,22
+481,11.0,4.0,12.0,63.0,5570492.0,57.0,8.0,80962.0,218.28,2022.0,4.0,russell,British,mercedes,German,Finished,imola,Imola,Italy,44.3439,11.7167,37.0,4,24
+482,2.0,6.0,8.0,63.0,5584058.0,63.0,2.0,78574.0,224.914,2022.0,4.0,leclerc,Monegasque,ferrari,Italian,Finished,imola,Imola,Italy,44.3439,11.7167,37.0,4,24
+483,13.0,8.0,4.0,63.0,5598878.0,47.0,9.0,81211.0,217.61,2022.0,4.0,vettel,German,aston_martin,British,Finished,imola,Imola,Italy,44.3439,11.7167,37.0,4,34
+484,7.0,5.0,10.0,63.0,5571167.0,43.0,6.0,80758.0,218.831,2022.0,4.0,bottas,Finnish,alfa,Swiss,Finished,imola,Imola,Italy,44.3439,11.7167,37.0,4,32
+485,3.0,2.0,18.0,63.0,5544513.0,52.0,3.0,78949.0,223.845,2022.0,4.0,perez,Mexican,red_bull,Austrian,Finished,imola,Imola,Italy,44.3439,11.7167,37.0,4,32
+486,1.0,1.0,26.0,63.0,5527986.0,55.0,1.0,78446.0,225.281,2022.0,4.0,max_verstappen,Dutch,red_bull,Austrian,Finished,imola,Imola,Italy,44.3439,11.7167,37.0,4,24
+487,8.0,9.0,2.0,63.0,5603246.0,61.0,10.0,81238.0,217.538,2022.0,4.0,kevin_magnussen,Danish,haas,American,Finished,imola,Imola,Italy,44.3439,11.7167,37.0,4,29
+488,12.0,7.0,6.0,63.0,5589096.0,61.0,5.0,80544.0,219.412,2022.0,4.0,tsunoda,Japanese,alphatauri,Italian,Finished,imola,Imola,Italy,44.3439,11.7167,37.0,4,21
+489,6.0,18.0,0.0,62.0,5684823.0,61.0,14.0,81577.0,216.634,2022.0,4.0,ricciardo,Australian,mclaren,British,+1 Lap,imola,Imola,Italy,44.3439,11.7167,37.0,4,32
+490,14.0,13.0,0.0,62.0,5684665.0,50.0,13.0,81419.0,217.054,2022.0,4.0,hamilton,British,mercedes,German,+1 Lap,imola,Imola,Italy,44.3439,11.7167,37.0,4,37
+491,18.0,11.0,0.0,62.0,5685003.0,61.0,17.0,81757.0,216.157,2022.0,4.0,albon,Thai,williams,British,+1 Lap,imola,Imola,Italy,44.3439,11.7167,37.0,4,26
+492,19.0,16.0,0.0,62.0,5684584.0,62.0,12.0,81338.0,217.271,2022.0,4.0,latifi,Canadian,williams,British,+1 Lap,imola,Imola,Italy,44.3439,11.7167,37.0,4,26
+493,16.0,14.0,0.0,62.0,5685133.0,37.0,18.0,81887.0,215.814,2022.0,4.0,ocon,French,alpine,French,+1 Lap,imola,Imola,Italy,44.3439,11.7167,37.0,4,25
+494,15.0,10.0,1.0,62.0,5684996.0,46.0,16.0,81750.0,216.176,2022.0,4.0,stroll,Canadian,aston_martin,British,+1 Lap,imola,Imola,Italy,44.3439,11.7167,37.0,4,23
+495,0.0,15.0,0.0,62.0,5684532.0,61.0,11.0,81286.0,217.41,2022.0,4.0,zhou,Chinese,alfa,Swiss,+1 Lap,imola,Imola,Italy,44.3439,11.7167,37.0,4,22
+496,10.0,17.0,0.0,62.0,5682245.0,55.0,4.0,78999.0,223.704,2022.0,4.0,mick_schumacher,German,haas,American,+1 Lap,imola,Imola,Italy,44.3439,11.7167,37.0,4,23
+497,17.0,12.0,0.0,62.0,5684959.0,34.0,15.0,81713.0,216.274,2022.0,4.0,gasly,French,alphatauri,Italian,+1 Lap,imola,Imola,Italy,44.3439,11.7167,37.0,4,26
+498,4.0,20.0,0.0,0.0,6997056.0,1.0,0.0,139381.0,167.23700000000002,2022.0,4.0,sainz,Spanish,ferrari,Italian,Collision,imola,Imola,Italy,44.3439,11.7167,37.0,4,27
+499,9.0,19.0,0.0,6.0,6600096.0,5.0,19.0,99685.0,177.282,2022.0,4.0,alonso,Spanish,alpine,French,Collision damage,imola,Imola,Italy,44.3439,11.7167,37.0,4,40
+500,4.0,4.0,12.0,71.0,5159934.0,50.0,6.0,68880.0,225.679,2023.0,9.0,norris,British,mclaren,British,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,23
+501,8.0,3.0,15.0,71.0,5105529.0,63.0,5.0,69000.0,225.286,2022.0,11.0,hamilton,British,mercedes,German,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,37
+502,5.0,8.0,4.0,71.0,5182803.0,49.0,10.0,69283.0,224.366,2023.0,9.0,hamilton,British,mercedes,German,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,38
+503,4.0,4.0,12.0,71.0,5123284.0,61.0,6.0,69075.0,225.042,2022.0,11.0,russell,British,mercedes,German,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,24
+504,11.0,7.0,6.0,71.0,5182010.0,48.0,9.0,69160.0,224.765,2023.0,9.0,russell,British,mercedes,German,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,25
+505,10.0,11.0,0.0,71.0,5213374.0,53.0,11.0,69560.0,223.473,2023.0,9.0,albon,Thai,williams,British,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,27
+506,3.0,6.0,8.0,71.0,5164984.0,54.0,8.0,69108.0,224.934,2023.0,9.0,sainz,Spanish,ferrari,Italian,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,28
+507,2.0,1.0,25.0,71.0,5064312.0,62.0,2.0,67583.0,230.01,2022.0,11.0,leclerc,Monegasque,ferrari,Italian,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,24
+508,2.0,2.0,18.0,71.0,5138762.0,51.0,5.0,68820.0,225.876,2023.0,9.0,leclerc,Monegasque,ferrari,Italian,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,25
+509,6.0,5.0,10.0,71.0,5132748.0,62.0,10.0,69559.0,223.476,2022.0,11.0,ocon,French,alpine,French,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,25
+510,9.0,10.0,1.0,71.0,5201274.0,57.0,3.0,68463.0,227.054,2023.0,9.0,gasly,French,alpine,French,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,27
+511,7.0,5.0,10.0,71.0,5163924.0,48.0,4.0,68739.0,226.142,2023.0,9.0,alonso,Spanish,aston_martin,British,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,41
+512,6.0,9.0,2.0,71.0,5192650.0,48.0,7.0,69045.99999999999,225.136,2023.0,9.0,stroll,Canadian,aston_martin,British,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,24
+513,15.0,3.0,15.0,71.0,5150795.0,52.0,2.0,68111.0,228.227,2023.0,9.0,perez,Mexican,red_bull,Austrian,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,33
+514,1.0,2.0,19.0,71.0,5065844.0,62.0,1.0,67275.0,231.063,2022.0,11.0,max_verstappen,Dutch,red_bull,Austrian,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,24
+515,1.0,1.0,26.0,71.0,5133607.0,71.0,1.0,67012.0,231.97,2023.0,9.0,max_verstappen,Dutch,red_bull,Austrian,Finished,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,25
+516,11.0,9.0,2.0,70.0,5202672.0,61.0,13.0,69924.0,222.309,2022.0,11.0,ricciardo,Australian,mclaren,British,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,33
+517,10.0,7.0,6.0,70.0,5202052.0,62.0,8.0,69304.0,224.298,2022.0,11.0,norris,British,mclaren,British,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,22
+518,13.0,16.0,0.0,70.0,5283314.0,49.0,18.0,69940.0,222.259,2023.0,9.0,piastri,Australian,mclaren,British,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,22
+519,15.0,12.0,0.0,70.0,5202417.0,60.0,12.0,69669.0,223.123,2022.0,11.0,albon,Thai,williams,British,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,26
+520,18.0,13.0,0.0,70.0,5282985.0,45.0,12.0,69611.0,223.309,2023.0,9.0,sargeant,American,williams,British,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,22
+521,19.0,10.0,1.0,70.0,5201306.0,62.0,3.0,68558.0,226.739,2022.0,11.0,alonso,Spanish,alpine,French,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,40
+522,12.0,14.0,0.0,70.0,5283160.0,46.0,14.0,69786.0,222.749,2023.0,9.0,ocon,French,alpine,French,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,26
+523,18.0,17.0,0.0,70.0,5202749.0,62.0,15.0,70001.0,222.065,2022.0,11.0,vettel,German,aston_martin,British,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,35
+524,12.0,13.0,0.0,70.0,5202796.0,64.0,17.0,70048.0,221.916,2022.0,11.0,stroll,Canadian,aston_martin,British,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,23
+525,0.0,11.0,0.0,70.0,5202014.0,61.0,7.0,69266.0,224.421,2022.0,11.0,bottas,Finnish,alfa,Swiss,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,32
+526,14.0,15.0,0.0,70.0,5283226.0,46.0,16.0,69852.0,222.539,2023.0,9.0,bottas,Finnish,alfa,Swiss,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,33
+527,13.0,14.0,0.0,70.0,5202128.0,50.0,9.0,69380.0,224.053,2022.0,11.0,zhou,Chinese,alfa,Swiss,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,23
+528,17.0,12.0,0.0,70.0,5283171.0,50.0,15.0,69797.0,222.714,2023.0,9.0,zhou,Chinese,alfa,Swiss,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,24
+529,7.0,8.0,4.0,70.0,5202686.0,61.0,14.0,69938.0,222.265,2022.0,11.0,kevin_magnussen,Danish,haas,American,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,29
+530,0.0,18.0,0.0,70.0,5282994.0,45.0,13.0,69620.0,223.28,2023.0,9.0,kevin_magnussen,Danish,haas,American,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,30
+531,9.0,6.0,8.0,70.0,5202373.0,50.0,11.0,69625.0,223.264,2022.0,11.0,mick_schumacher,German,haas,American,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,23
+532,14.0,15.0,0.0,70.0,5202852.0,61.0,18.0,70104.0,221.739,2022.0,11.0,gasly,French,alphatauri,Italian,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,26
+533,16.0,16.0,0.0,70.0,5202771.0,62.0,16.0,70023.0,221.995,2022.0,11.0,tsunoda,Japanese,alphatauri,Italian,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,22
+534,16.0,19.0,0.0,70.0,5283550.0,37.0,19.0,70176.0,221.511,2023.0,9.0,tsunoda,Japanese,alphatauri,Italian,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,23
+535,0.0,17.0,0.0,70.0,5283236.0,46.0,17.0,69862.0,222.507,2023.0,9.0,de_vries,Dutch,alphatauri,Italian,+1 Lap,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,28
+536,3.0,18.0,0.0,56.0,5819238.0,55.0,4.0,68649.0,226.438,2022.0,11.0,sainz,Spanish,ferrari,Italian,Power Unit,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,27
+537,5.0,20.0,0.0,24.0,5851178.0,5.0,20.0,71843.0,216.371,2022.0,11.0,perez,Mexican,red_bull,Austrian,Collision damage,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,32
+538,8.0,20.0,0.0,12.0,5924034.0,7.0,20.0,71066.0,218.737,2023.0,9.0,hulkenberg,German,haas,American,Power loss,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,35
+539,17.0,19.0,0.0,48.0,5841648.0,14.0,19.0,70890.0,219.28,2022.0,11.0,latifi,Canadian,williams,British,Undertray,red_bull_ring,Spielberg,Austria,47.2197,14.7647,678.0,7,27
+540,3.0,2.0,18.0,71.0,5931915.0,32.0,5.0,82062.0,188.813,2022.0,20.0,hamilton,British,mercedes,German,Finished,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,37
+541,2.0,4.0,13.0,71.0,5966160.0,71.0,1.0,80152.99999999999,193.31,2022.0,20.0,russell,British,mercedes,German,Finished,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,24
+542,5.0,5.0,10.0,71.0,5974852.0,32.0,6.0,82199.0,188.498,2022.0,20.0,sainz,Spanish,ferrari,Italian,Finished,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,28
+543,7.0,6.0,8.0,71.0,5985503.0,48.0,10.0,82603.00000000001,187.576,2022.0,20.0,leclerc,Monegasque,ferrari,Italian,Finished,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,25
+544,4.0,3.0,15.0,71.0,5934826.0,30.0,2.0,81775.0,189.476,2022.0,20.0,perez,Mexican,red_bull,Austrian,Finished,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,32
+545,1.0,1.0,25.0,71.0,5916729.0,36.0,4.0,82045.99999999999,188.85,2022.0,20.0,max_verstappen,Dutch,red_bull,Austrian,Finished,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,25
+546,11.0,7.0,6.0,70.0,6067525.0,48.0,3.0,82021.99999999999,188.905,2022.0,20.0,ricciardo,Australian,mclaren,British,+1 Lap,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,33
+547,8.0,9.0,2.0,70.0,6068905.0,48.0,17.0,83402.0,185.779,2022.0,20.0,norris,British,mclaren,British,+1 Lap,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,22
+548,17.0,12.0,0.0,70.0,6068417.0,48.0,12.0,82914.0,186.873,2022.0,20.0,albon,Thai,williams,British,+1 Lap,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,26
+549,10.0,8.0,4.0,70.0,6068782.0,48.0,14.0,83279.0,186.054,2022.0,20.0,ocon,French,alpine,French,+1 Lap,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,26
+550,16.0,14.0,0.0,70.0,6068589.0,45.0,13.0,83086.0,186.486,2022.0,20.0,vettel,German,aston_martin,British,+1 Lap,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,35
+551,20.0,15.0,0.0,70.0,6067966.0,42.0,9.0,82463.0,187.895,2022.0,20.0,stroll,Canadian,aston_martin,British,+1 Lap,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,24
+552,6.0,10.0,1.0,70.0,6068866.0,43.0,16.0,83363.0,185.866,2022.0,20.0,bottas,Finnish,alfa,Swiss,+1 Lap,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,33
+553,12.0,13.0,0.0,70.0,6067763.0,47.0,7.0,82260.0,188.358,2022.0,20.0,zhou,Chinese,alfa,Swiss,+1 Lap,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,23
+554,19.0,17.0,0.0,70.0,6068803.0,49.0,15.0,83300.0,186.007,2022.0,20.0,kevin_magnussen,Danish,haas,American,+1 Lap,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,30
+555,15.0,16.0,0.0,70.0,6069144.0,30.0,19.0,83640.99999999999,185.248,2022.0,20.0,mick_schumacher,German,haas,American,+1 Lap,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,23
+556,14.0,11.0,0.0,70.0,6067780.0,42.0,8.0,82277.0,188.319,2022.0,20.0,gasly,French,alphatauri,Italian,+1 Lap,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,26
+557,9.0,19.0,0.0,63.0,6814163.0,48.0,11.0,82866.0,186.981,2022.0,20.0,alonso,Spanish,alpine,French,Engine,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,41
+558,18.0,18.0,0.0,69.0,6152921.0,56.0,20.0,83709.0,185.098,2022.0,20.0,latifi,Canadian,williams,British,+2 Laps,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,27
+559,13.0,20.0,0.0,50.0,6819533.0,48.0,18.0,83402.99999999999,185.777,2022.0,20.0,tsunoda,Japanese,alphatauri,Italian,Collision damage,rodriguez,Mexico City,Mexico,19.4042,-99.0907,2227.0,10,22
+560,9.0,9.0,2.0,53.0,5462484.0,27.0,14.0,99133.00000000001,212.151,2022.0,12.0,ricciardo,Australian,mclaren,British,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,33
+561,5.0,7.0,6.0,53.0,5454138.0,43.0,11.0,99037.0,212.356,2022.0,12.0,norris,British,mclaren,British,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,22
+562,4.0,2.0,18.0,53.0,5412699.0,30.0,4.0,97668.0,215.333,2022.0,12.0,hamilton,British,mercedes,German,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,37
+563,6.0,3.0,15.0,53.0,5418607.0,51.0,3.0,97548.0,215.598,2022.0,12.0,russell,British,mercedes,German,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,24
+564,13.0,13.0,0.0,53.0,5470677.0,53.0,16.0,99199.0,212.01,2022.0,12.0,albon,Thai,williams,British,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,26
+565,19.0,5.0,11.0,53.0,5430984.0,51.0,1.0,95781.0,219.575,2022.0,12.0,sainz,Spanish,ferrari,Italian,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,27
+566,7.0,6.0,8.0,53.0,5444991.0,53.0,8.0,98160.0,214.254,2022.0,12.0,alonso,Spanish,alpine,French,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,41
+567,10.0,8.0,4.0,53.0,5459071.0,53.0,9.0,98684.0,213.116,2022.0,12.0,ocon,French,alpine,French,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,25
+568,12.0,11.0,0.0,53.0,5466606.0,43.0,12.0,99044.0,212.341,2022.0,12.0,vettel,German,aston_martin,British,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,35
+569,15.0,10.0,1.0,53.0,5464661.0,52.0,15.0,99185.0,212.04,2022.0,12.0,stroll,Canadian,aston_martin,British,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,23
+570,11.0,14.0,0.0,53.0,5478778.0,52.0,6.0,97963.0,214.685,2022.0,12.0,bottas,Finnish,alfa,Swiss,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,32
+571,3.0,4.0,12.0,53.0,5419422.0,45.0,5.0,97780.0,215.086,2022.0,12.0,perez,Mexican,red_bull,Austrian,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,32
+572,2.0,1.0,25.0,53.0,5402112.0,30.0,2.0,97491.0,215.724,2022.0,12.0,max_verstappen,Dutch,red_bull,Austrian,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,24
+573,17.0,15.0,0.0,53.0,5482506.0,48.0,13.0,99068.0,212.29,2022.0,12.0,mick_schumacher,German,haas,American,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,23
+574,14.0,12.0,0.0,53.0,5467560.0,53.0,10.0,98786.0,212.896,2022.0,12.0,gasly,French,alphatauri,Italian,Finished,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,26
+575,1.0,19.0,0.0,17.0,6463386.0,4.0,7.0,98088.0,214.411,2022.0,12.0,leclerc,Monegasque,ferrari,Italian,Accident,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,24
+576,16.0,16.0,0.0,47.0,6078714.0,25.0,18.0,99368.0,211.649,2022.0,12.0,zhou,Chinese,alfa,Swiss,+6 Laps,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,23
+577,18.0,17.0,0.0,40.0,6479006.0,40.0,19.0,99650.0,211.05,2022.0,12.0,latifi,Canadian,williams,British,Collision damage,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,27
+578,20.0,18.0,0.0,37.0,6475156.0,11.0,17.0,99265.0,211.869,2022.0,12.0,kevin_magnussen,Danish,haas,American,Collision damage,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,29
+579,8.0,20.0,0.0,17.0,6484666.0,4.0,20.0,100216.00000000001,209.858,2022.0,12.0,tsunoda,Japanese,alphatauri,Italian,Undertray,ricard,Le Castellet,France,43.2506,5.79167,432.0,7,22
+580,17.0,17.0,0.0,72.0,5840537.0,52.0,16.0,75577.0,202.871,2022.0,15.0,ricciardo,Australian,mclaren,British,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,33
+581,7.0,7.0,6.0,72.0,5822079.0,63.0,8.0,74706.0,205.236,2022.0,15.0,norris,British,mclaren,British,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,22
+582,4.0,4.0,12.0,72.0,5815789.0,54.0,3.0,73854.0,207.604,2022.0,15.0,hamilton,British,mercedes,German,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,37
+583,6.0,2.0,18.0,72.0,5806844.0,72.0,2.0,73670.99999999999,208.119,2022.0,15.0,russell,British,mercedes,German,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,24
+584,15.0,12.0,0.0,72.0,5833163.0,65.0,15.0,75534.0,202.986,2022.0,15.0,albon,Thai,williams,British,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,26
+585,3.0,8.0,4.0,72.0,5823689.0,63.0,7.0,74643.0,205.409,2022.0,15.0,sainz,Spanish,ferrari,Italian,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,28
+586,2.0,3.0,15.0,72.0,5813702.0,62.0,6.0,74413.0,206.044,2022.0,15.0,leclerc,Monegasque,ferrari,Italian,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,24
+587,13.0,6.0,8.0,72.0,5821527.0,51.0,4.0,74144.0,206.792,2022.0,15.0,alonso,Spanish,alpine,French,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,41
+588,12.0,9.0,2.0,72.0,5823890.0,64.0,11.0,75084.0,204.203,2022.0,15.0,ocon,French,alpine,French,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,25
+589,19.0,14.0,0.0,72.0,5838780.0,50.0,9.0,74862.0,204.808,2022.0,15.0,vettel,German,aston_martin,British,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,35
+590,10.0,10.0,1.0,72.0,5825232.0,65.0,10.0,75043.0,204.314,2022.0,15.0,stroll,Canadian,aston_martin,British,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,23
+591,14.0,16.0,0.0,72.0,5840093.0,63.0,17.0,75940.0,201.901,2022.0,15.0,zhou,Chinese,alfa,Swiss,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,23
+592,5.0,5.0,10.0,72.0,5820941.0,63.0,5.0,74404.0,206.069,2022.0,15.0,perez,Mexican,red_bull,Austrian,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,32
+593,1.0,1.0,26.0,72.0,5802773.0,62.0,1.0,73652.0,208.173,2022.0,15.0,max_verstappen,Dutch,red_bull,Austrian,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,24
+594,18.0,15.0,0.0,72.0,5839642.0,53.0,14.0,75369.0,203.431,2022.0,15.0,kevin_magnussen,Danish,haas,American,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,29
+595,8.0,13.0,0.0,72.0,5835768.0,51.0,13.0,75233.0,203.798,2022.0,15.0,mick_schumacher,German,haas,American,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,23
+596,11.0,11.0,0.0,72.0,5829782.0,65.0,12.0,75164.99999999999,203.983,2022.0,15.0,gasly,French,alphatauri,Italian,Finished,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,26
+597,20.0,18.0,0.0,71.0,5916603.0,62.0,18.0,76066.0,201.567,2022.0,15.0,latifi,Canadian,williams,British,+1 Lap,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,27
+598,16.0,19.0,0.0,53.0,6608977.0,51.0,19.0,76844.0,199.526,2022.0,15.0,bottas,Finnish,alfa,Swiss,Engine,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,33
+599,9.0,20.0,0.0,43.0,6611917.0,16.0,20.0,77138.0,198.765,2022.0,15.0,tsunoda,Japanese,alphatauri,Italian,Differential,zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6.0,9,22
+600,11.0,7.0,6.0,50.0,5115417.0,46.0,5.0,92753.0,239.629,2022.0,2.0,norris,British,mclaren,British,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,22
+601,19.0,17.0,0.0,50.0,4961339.0,49.0,15.0,94122.0,236.144,2023.0,2.0,norris,British,mclaren,British,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,23
+602,8.0,15.0,0.0,50.0,4959915.0,48.0,16.0,94287.0,235.731,2023.0,2.0,piastri,Australian,mclaren,British,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,21
+603,15.0,10.0,1.0,50.0,5133241.0,47.0,8.0,92997.0,239.001,2022.0,2.0,hamilton,British,mercedes,German,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,37
+604,7.0,5.0,10.0,50.0,4905959.0,47.0,6.0,92941.0,239.145,2023.0,2.0,hamilton,British,mercedes,German,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,38
+605,6.0,5.0,10.0,50.0,5092025.0,43.0,7.0,92821.0,239.454,2022.0,2.0,russell,British,mercedes,German,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,24
+606,3.0,4.0,12.0,50.0,4900760.0,50.0,4.0,92433.0,240.459,2023.0,2.0,russell,British,mercedes,German,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,25
+607,20.0,16.0,0.0,50.0,4961187.0,49.0,18.0,94469.0,235.277,2023.0,2.0,sargeant,American,williams,British,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,22
+608,3.0,3.0,15.0,50.0,5067390.0,48.0,3.0,91905.0,241.841,2022.0,2.0,sainz,Spanish,ferrari,Italian,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,27
+609,4.0,6.0,8.0,50.0,4910770.0,50.0,5.0,92822.0,239.451,2023.0,2.0,sainz,Spanish,ferrari,Italian,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,28
+610,2.0,2.0,19.0,50.0,5059842.0,48.0,1.0,91634.0,242.556,2022.0,2.0,leclerc,Monegasque,ferrari,Italian,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,24
+611,12.0,7.0,6.0,50.0,4918056.0,47.0,7.0,93056.0,238.849,2023.0,2.0,leclerc,Monegasque,ferrari,Italian,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,25
+612,5.0,6.0,8.0,50.0,5115310.0,46.0,9.0,93103.00000000001,238.729,2022.0,2.0,ocon,French,alpine,French,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,25
+613,6.0,8.0,4.0,50.0,4927726.0,49.0,8.0,93222.00000000001,238.424,2023.0,2.0,ocon,French,alpine,French,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,26
+614,9.0,9.0,2.0,50.0,4929641.0,50.0,10.0,93392.0,237.99,2023.0,2.0,gasly,French,alpine,French,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,27
+615,2.0,3.0,15.0,50.0,4895622.0,50.0,3.0,92240.00000000001,240.962,2023.0,2.0,alonso,Spanish,aston_martin,British,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,41
+616,17.0,12.0,0.0,50.0,5151035.0,47.0,11.0,93651.00000000001,237.332,2022.0,2.0,hulkenberg,German,aston_martin,British,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,34
+617,12.0,11.0,0.0,50.0,5141508.0,45.0,13.0,93924.0,236.642,2022.0,2.0,zhou,Chinese,alfa,Swiss,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,22
+618,11.0,13.0,0.0,50.0,4950954.0,49.0,13.0,93894.0,236.718,2023.0,2.0,zhou,Chinese,alfa,Swiss,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,23
+619,1.0,4.0,12.0,50.0,5070093.0,46.0,4.0,92042.0,241.481,2022.0,2.0,perez,Mexican,red_bull,Austrian,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,32
+620,1.0,1.0,25.0,50.0,4874894.0,38.0,2.0,92188.0,241.098,2023.0,2.0,perez,Mexican,red_bull,Austrian,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,33
+621,4.0,1.0,25.0,50.0,5059293.0,50.0,2.0,91771.99999999999,242.191,2022.0,2.0,max_verstappen,Dutch,red_bull,Austrian,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,24
+622,15.0,2.0,19.0,50.0,4880249.0,50.0,1.0,91906.0,241.838,2023.0,2.0,max_verstappen,Dutch,red_bull,Austrian,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,25
+623,10.0,12.0,0.0,50.0,4945482.0,50.0,12.0,93780.0,237.005,2023.0,2.0,hulkenberg,German,haas,American,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,35
+624,10.0,9.0,2.0,50.0,5123601.0,48.0,6.0,92779.0,239.562,2022.0,2.0,kevin_magnussen,Danish,haas,American,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,29
+625,13.0,10.0,1.0,50.0,4939720.0,44.0,9.0,93374.0,238.036,2023.0,2.0,kevin_magnussen,Danish,haas,American,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,30
+626,9.0,8.0,4.0,50.0,5122239.0,42.0,10.0,93468.0,237.796,2022.0,2.0,gasly,French,alphatauri,Italian,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,26
+627,16.0,11.0,0.0,50.0,4942388.0,50.0,14.0,93931.0,236.624,2023.0,2.0,tsunoda,Japanese,alphatauri,Italian,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,22
+628,18.0,14.0,0.0,50.0,4952372.0,49.0,11.0,93609.00000000001,237.438,2023.0,2.0,de_vries,Dutch,alphatauri,Italian,Finished,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,28
+629,13.0,13.0,0.0,49.0,5245481.0,46.0,16.0,94446.0,235.334,2022.0,2.0,stroll,Canadian,aston_martin,British,+1 Lap,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,23
+630,14.0,18.0,0.0,49.0,5055723.0,37.0,17.0,94384.0,235.489,2023.0,2.0,bottas,Finnish,alfa,Swiss,+1 Lap,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,33
+631,18.0,18.0,0.0,14.0,6126335.0,9.0,18.0,97530.0,227.892,2022.0,2.0,latifi,Canadian,williams,British,Accident,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,26
+632,17.0,19.0,0.0,27.0,5917009.0,24.0,20.0,95567.0,232.574,2023.0,2.0,albon,Thai,williams,British,Brakes,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,27
+633,14.0,17.0,0.0,35.0,6095905.0,34.0,17.0,94487.0,235.232,2022.0,2.0,ricciardo,Australian,mclaren,British,Gearbox,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,32
+634,5.0,20.0,0.0,16.0,5912739.0,7.0,19.0,95140.0,233.617,2023.0,2.0,stroll,Canadian,aston_martin,British,Engine,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,24
+635,19.0,19.0,0.0,0.0,6216235.0,1.0,0.0,106520.0,224.438,2022.0,2.0,tsunoda,Japanese,alphatauri,Italian,Power Unit,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,21
+636,16.0,14.0,0.0,47.0,6094715.0,46.0,15.0,94368.0,235.528,2022.0,2.0,albon,Thai,williams,British,Collision damage,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,26
+637,0.0,20.0,0.0,0.0,6216235.0,1.0,0.0,106520.0,224.438,2022.0,2.0,mick_schumacher,German,haas,American,Withdrew,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,23
+638,7.0,16.0,0.0,35.0,6089345.0,33.0,12.0,93831.0,236.876,2022.0,2.0,alonso,Spanish,alpine,French,Water pump,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,40
+639,8.0,15.0,0.0,36.0,6090825.0,31.0,14.0,93979.0,236.503,2022.0,2.0,bottas,Finnish,alfa,Swiss,Cooling system,jeddah,Jeddah,Saudi Arabia,21.6319,39.1044,15.0,3,32
+640,14.0,13.0,0.0,57.0,5705160.0,56.0,11.0,93265.0,208.901,2022.0,5.0,ricciardo,Australian,mclaren,British,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,32
+641,16.0,17.0,0.0,57.0,5345958.0,47.0,20.0,92401.00000000001,210.854,2023.0,5.0,norris,British,mclaren,British,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,23
+642,6.0,6.0,8.0,57.0,5685626.0,55.0,7.0,92941.0,209.629,2022.0,5.0,hamilton,British,mercedes,German,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,37
+643,13.0,6.0,8.0,57.0,5309490.0,57.0,4.0,90669.0,214.882,2023.0,5.0,hamilton,British,mercedes,German,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,38
+644,12.0,5.0,10.0,57.0,5682840.0,56.0,5.0,92195.0,211.325,2022.0,5.0,russell,British,mercedes,German,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,24
+645,6.0,4.0,12.0,57.0,5291470.0,57.0,7.0,91015.0,214.065,2023.0,5.0,russell,British,mercedes,German,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,25
+646,18.0,9.0,2.0,57.0,5696623.0,57.0,15.0,93447.0,208.494,2022.0,5.0,albon,Thai,williams,British,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,26
+647,11.0,14.0,0.0,57.0,5331102.0,55.0,16.0,91852.0,212.115,2023.0,5.0,albon,Thai,williams,British,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,27
+648,19.0,14.0,0.0,57.0,5714194.0,53.0,18.0,94169.0,206.896,2022.0,5.0,latifi,Canadian,williams,British,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,26
+649,2.0,3.0,15.0,57.0,5672487.0,56.0,3.0,91789.99999999999,212.258,2022.0,5.0,sainz,Spanish,ferrari,Italian,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,27
+650,3.0,5.0,10.0,57.0,5300752.0,55.0,10.0,91362.0,213.252,2023.0,5.0,sainz,Spanish,ferrari,Italian,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,28
+651,1.0,2.0,18.0,57.0,5668044.0,53.0,2.0,91488.0,212.959,2022.0,5.0,leclerc,Monegasque,ferrari,Italian,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,24
+652,7.0,7.0,6.0,57.0,5311229.0,57.0,11.0,91434.0,213.084,2023.0,5.0,leclerc,Monegasque,ferrari,Italian,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,25
+653,11.0,11.0,0.0,57.0,5701386.0,53.0,13.0,93331.0,208.753,2022.0,5.0,alonso,Spanish,alpine,French,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,40
+654,20.0,8.0,4.0,57.0,5692644.0,56.0,9.0,93163.0,209.13,2022.0,5.0,ocon,French,alpine,French,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,25
+655,8.0,9.0,2.0,57.0,5316364.0,56.0,9.0,91143.0,213.765,2023.0,5.0,ocon,French,alpine,French,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,26
+656,5.0,8.0,4.0,57.0,5313911.0,55.0,17.0,91971.0,211.84,2023.0,5.0,gasly,French,alpine,French,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,27
+657,2.0,3.0,15.0,57.0,5284546.0,57.0,2.0,90519.0,215.238,2023.0,5.0,alonso,Spanish,aston_martin,British,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,41
+658,0.0,10.0,1.0,57.0,5701284.0,52.0,12.0,93312.0,208.796,2022.0,5.0,stroll,Canadian,aston_martin,British,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,23
+659,18.0,12.0,0.0,57.0,5322995.0,44.0,5.0,90862.0,214.426,2023.0,5.0,stroll,Canadian,aston_martin,British,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,24
+660,5.0,7.0,6.0,57.0,5689331.0,56.0,10.0,93184.0,209.083,2022.0,5.0,bottas,Finnish,alfa,Swiss,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,32
+661,10.0,13.0,0.0,57.0,5329878.0,56.0,15.0,91838.0,212.147,2023.0,5.0,bottas,Finnish,alfa,Swiss,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,33
+662,14.0,16.0,0.0,57.0,5336681.0,56.0,14.0,91736.0,212.383,2023.0,5.0,zhou,Chinese,alfa,Swiss,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,23
+663,4.0,4.0,12.0,57.0,5674896.0,54.0,4.0,91819.0,212.191,2022.0,5.0,perez,Mexican,red_bull,Austrian,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,32
+664,1.0,2.0,18.0,57.0,5263625.0,57.0,3.0,90560.0,215.141,2023.0,5.0,perez,Mexican,red_bull,Austrian,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,33
+665,3.0,1.0,26.0,57.0,5664258.0,54.0,1.0,91361.0,213.255,2022.0,5.0,max_verstappen,Dutch,red_bull,Austrian,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,24
+666,9.0,1.0,26.0,57.0,5258241.0,56.0,1.0,89708.0,217.184,2023.0,5.0,max_verstappen,Dutch,red_bull,Austrian,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,25
+667,12.0,15.0,0.0,57.0,5333191.0,36.0,6.0,90901.0,214.334,2023.0,5.0,hulkenberg,German,haas,American,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,35
+668,4.0,10.0,1.0,57.0,5321186.0,53.0,13.0,91691.0,212.487,2023.0,5.0,kevin_magnussen,Danish,haas,American,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,30
+669,15.0,15.0,0.0,57.0,5737563.0,57.0,6.0,92527.99999999999,210.565,2022.0,5.0,mick_schumacher,German,haas,American,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,23
+670,9.0,12.0,0.0,57.0,5704404.0,55.0,8.0,93035.0,209.417,2022.0,5.0,tsunoda,Japanese,alphatauri,Italian,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,22
+671,17.0,11.0,0.0,57.0,5322550.0,56.0,8.0,91038.0,214.011,2023.0,5.0,tsunoda,Japanese,alphatauri,Italian,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,23
+672,15.0,18.0,0.0,57.0,5347190.0,57.0,12.0,91562.0,212.786,2023.0,5.0,de_vries,Dutch,alphatauri,Italian,Finished,miami,Miami,USA,25.9581,-80.2389,7.0,5,28
+673,19.0,19.0,0.0,56.0,5439196.0,56.0,18.0,92006.0,211.76,2023.0,5.0,piastri,Australian,mclaren,British,+1 Lap,miami,Miami,USA,25.9581,-80.2389,7.0,5,22
+674,20.0,20.0,0.0,56.0,5439574.0,50.0,19.0,92384.0,210.893,2023.0,5.0,sargeant,American,williams,British,+1 Lap,miami,Miami,USA,25.9581,-80.2389,7.0,5,22
+675,8.0,19.0,0.0,39.0,6671673.0,37.0,14.0,93411.0,208.575,2022.0,5.0,norris,British,mclaren,British,Collision,miami,Miami,USA,25.9581,-80.2389,7.0,5,22
+676,0.0,17.0,0.0,54.0,6672353.0,50.0,16.0,93479.0,208.423,2022.0,5.0,vettel,German,aston_martin,British,Collision,miami,Miami,USA,25.9581,-80.2389,7.0,5,34
+677,7.0,18.0,0.0,45.0,6682433.0,38.0,19.0,94487.0,206.199,2022.0,5.0,gasly,French,alphatauri,Italian,Suspension,miami,Miami,USA,25.9581,-80.2389,7.0,5,26
+678,17.0,20.0,0.0,6.0,6694873.0,4.0,20.0,95731.0,203.52,2022.0,5.0,zhou,Chinese,alfa,Swiss,Water leak,miami,Miami,USA,25.9581,-80.2389,7.0,5,22
+679,16.0,16.0,0.0,56.0,6672673.0,52.0,17.0,93511.0,208.351,2022.0,5.0,kevin_magnussen,Danish,haas,American,Front wing,miami,Miami,USA,25.9581,-80.2389,7.0,5,29

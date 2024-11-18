@@ -1,0 +1,4 @@
+# Intelligent Systems Project
+This was a slightly easier project to implement in the realm of image classification. For this project we had some choices of topics and how we wanted to develop it, and I chose pneumonia detection.
+Class balancing and some minor preprocessing was done, although for the former some imbalance was kept to be true to the real world (it is more common not to have pneumonia) but the difference between classes was less drastic, and class weights were tested to further improve the model.
+As for the models, the main aim of the project was to test and compare a number of them, and I also decided to create a more original CNN to see how it performed, although it was not given much attention as it was not a priority. Once the best models were chosen, a weighted ensemble model was implemented to try to overcome the shortcomings of the individual models it was made up of. 

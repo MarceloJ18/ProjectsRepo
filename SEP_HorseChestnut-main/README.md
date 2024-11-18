@@ -1,0 +1,5 @@
+# Software Engineering Practic - AI Project
+This repository refers to my part of a project developed for the Software Engineering Practice module at Northumbria University. It was a 4 person project where each member had 2 tasks. For my part, these tasks were Baseline Implementation and Additional Data. To protect their privacy, I decided not to include the other members' part.
+This is another image classification project, but one I felt more comfortable with, dealing with a different image format and using different techniques. My aim was to make it as versatile and easy to use and modify as possible. As such, each parameter can be changed quickly and the code is fairly easy to understand and well documented.
+Some problems were solved, but others remained. The predictive power of the model was hampered by some problems inherent in the dataset used, but we still felt quite confident with the final result after iterative development, having changed some aspects.
+For reference, Iterative Development was seen as a team mission and everyone contributed, hence its inclusion.

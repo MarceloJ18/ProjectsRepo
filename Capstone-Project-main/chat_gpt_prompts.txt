@@ -1,0 +1,47 @@
+Group 08 - AiTHLETES
+
+ -- Prompt Links --
+
+Customer Data Generation
+
+link: https://chat.openai.com/share/8ade1d37-f60a-4a09-a66d-99f6409bd0aa
+
+---------
+Company Definition: Stage 1 (Comprises Company's Problem, Mission, Vision, Target Customers)
+
+link: https://chat.openai.com/share/b1282f71-f3d8-44d5-9751-ef9554f883f3
+
+
+---------
+
+Company Definiton: Stage 2 (Values & Main Value + Tag Line)
+
+link: https://chat.openai.com/share/20ce0fd3-074d-4820-97b1-8849b51d374d
+
+---------
+
+30-Second Video Script
+
+link: https://chat.openai.com/share/ef1bb1ea-c214-4011-aa5f-5f02cf847488
+
+---------
+
+5 blog posts
+
+link: https://chat.openai.com/share/83305255-c3d3-4dfc-bd91-e667a88161c1    
+
+---------
+5 post social media campaign (Instagram + Twitter)
+
+link: https://chat.openai.com/share/99740f49-ca27-43cb-8917-b7957c04003b
+
+---------
+
+Summarizing Competitor's reviews into Pros and Cons List
+
+link: ----
+
+This prompt was not possible to create since we have no competition in the market. Instead and to compensate, in the prompt above we created 5 Twitter Pages because from our perspective
+it made sense to give F1 Fans a place that could offer live updates of the races and the news about the F1 World.
+
+---------

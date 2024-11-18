@@ -1,0 +1,7 @@
+# Machine Learning 2 Project 
+This was a project I did on my second year of university, alongside my friend Daniel Kruk.
+As described in the Executive Summary, the objective of this project was to perform customer segmentation analysis by identifying groups of customers based on their purchasing habits. This segmentation process is of immense value to businesses, providing valuable insights into customers and facilitating the development of targeted marketing strategies. By maximising customer engagement and loyalty, companies can gain a competitive advantage.
+After correcting for a number of anomalies and assessing each variable, the customer segmentation process customer segmentation process, in which different clustering algorithms were tested and their results compared. The one that gave the best results was an HDBScan, and eight different clusters were identified. These were the Golden Oldies, the Promo Seekers, the Green Beans, the Family Friendly, the Bang-Average Consumers, the Young&Rich, the Geeks, the Young Alcoholics and finally the Loyals. To these previously mentioned clusters was added another one found during the exploratory data analysis process - a cluster containing nothing but supermarkets.
+
+
+A small note on the naming of the clusters: this project was not intended to have serious names for the clusters, as the responsible professor allowed us freedom in naming them and they should not be taken seriously. As such, some of them may be considered inappropriate, for which we apologise.

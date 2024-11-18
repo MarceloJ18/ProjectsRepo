@@ -1,0 +1,31 @@
+Name,CurrentPrice,AveragePointsPerMillion,Average Points,CurrentPoints,IsConstructor
+Hamilton,25.3,0.91,23.0,506.0,False
+Russell,20.2,0.86,17.45,384.0,False
+Leclerc,23.5,0.65,15.23,335.0,False
+Sainz,20.4,0.88,17.91,394.0,False
+Verstappen,30.0,1.54,46.09,1014.0,False
+Perez,20.8,1.27,26.32,579.0,False
+Norris,19.8,1.01,19.91,438.0,False
+Piastri,15.4,0.82,12.68,279.0,False
+Alonso,15.8,1.16,18.32,403.0,False
+Stroll,14.0,0.75,10.5,231.0,False
+Gasly,14.5,0.72,10.45,230.0,False
+Ocon,13.5,0.40,5.45,120.0,False
+Tsunoda,9.4,0.77,7.27,160.0,False
+Ricciardo,5.5,0.74,4.09,90.0,False
+Albon,11.3,0.51,5.73,126.0,False
+Sargeant,5.8,-0.13,-0.77,-17.0,False
+Bottas,9.6,0.20,1.95,43.0,False
+Zhou,7.7,0.80,6.14,135.0,False
+Magnussen,9.6,0.42,4.05,89.0,False
+Hulkenberg,6.2,0.43,2.68,59.0,False
+Mercedes,26.0,1.85,48.2,1060.0,True
+Ferrari,25.0,1.83,45.8,1007.0,True
+Red Bull,29.7,2.83,84.0,1847.0,True
+Mclaren,17.1,2.39,40.9,899.0,True
+Aston Martin,13.4,2.57,34.4,757.0,True
+Alpine,14.2,1.49,21.2,467.0,True
+AlphaTauri,8.7,1.61,14.0,308.0,True
+Williams,7.8,0.88,6.9,151.0,True
+Alfa Romeo,6.6,1.53,10.1,222.0,True
+Haas,7.2,1.36,9.8,215.0,True

@@ -1,0 +1,2 @@
+# Deep learning project
+The aim of this project was to correctly classify skin cancer cases from images. Several models and image processing techniques were tested and implemented. At the suggestion of one of the members, a stratified k-fold was also implemented. Due to the way other projects were arranged, I ended up focusing on this project and did most of the research and implementation, with occasional help from my friends. This was my first time doing image classification, and I learned a lot from it for future implementations.
